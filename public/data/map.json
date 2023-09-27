@@ -1,0 +1,4739 @@
+{
+    "poi": [
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5671800000000005,
+        "longitude": 106.85741,
+        "ne_count": 62,
+        "poi_name": "AEON MALL SENTUL",
+        "region": "JABOTABEK OUTER",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.178603,
+        "longitude": 123.58707,
+        "ne_count": 22,
+        "poi_name": "AIRNONA",
+        "region": "BALI NUSRA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.408127,
+        "longitude": 109.08033,
+        "ne_count": 22,
+        "poi_name": "AJIBARANG CITY PARK",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.4932276,
+        "longitude": 101.50011,
+        "ne_count": 20,
+        "poi_name": "ALAMAYANG",
+        "region": "SUMBAGTENG",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.1689625,
+        "longitude": 113.70284,
+        "ne_count": 17,
+        "poi_name": "ALUN - ALUN JEMBER",
+        "region": "EAST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.134907,
+        "longitude": 113.22465,
+        "ne_count": 13,
+        "poi_name": "ALUN - ALUN LUMAJANG",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.4382274,
+        "longitude": 102.2006,
+        "ne_count": 11,
+        "poi_name": "ALUN ALUN ARGA MAKMUR",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G"
+        ],
+        "latitude": -7.0298777,
+        "longitude": 112.74932,
+        "ne_count": 1,
+        "poi_name": "ALUN ALUN BANGKALAN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.396149,
+        "longitude": 109.69507,
+        "ne_count": 27,
+        "poi_name": "ALUN ALUN BANJARNEGARA",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.8708315,
+        "longitude": 112.52675,
+        "ne_count": 10,
+        "poi_name": "ALUN ALUN BATU",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G"
+        ],
+        "latitude": -7.913117,
+        "longitude": 113.82253,
+        "ne_count": 6,
+        "poi_name": "ALUN ALUN BONDOWOSO",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8731403,
+        "longitude": 107.5423,
+        "ne_count": 28,
+        "poi_name": "ALUN ALUN CIMAHI",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.894745,
+        "longitude": 110.63894,
+        "ne_count": 38,
+        "poi_name": "ALUN ALUN DEMAK",
+        "region": "CENTRAL JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.3264737,
+        "longitude": 108.32282,
+        "ne_count": 40,
+        "poi_name": "ALUN ALUN INDRAMAYU",
+        "region": "WEST JAVA",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5897436,
+        "longitude": 110.66728,
+        "ne_count": 27,
+        "poi_name": "ALUN ALUN JEPARA",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.5566826,
+        "longitude": 112.23338,
+        "ne_count": 6,
+        "poi_name": "ALUN ALUN JOMBANG",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.097166,
+        "longitude": 112.163216,
+        "ne_count": 5,
+        "poi_name": "ALUN ALUN KAB BLITAR",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.5948343,
+        "longitude": 110.93994,
+        "ne_count": 51,
+        "poi_name": "ALUN ALUN KARANGANYAR",
+        "region": "CENTRAL JAVA",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.6686206,
+        "longitude": 109.651825,
+        "ne_count": 36,
+        "poi_name": "ALUN ALUN KEBUMEN",
+        "region": "CENTRAL JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.921824,
+        "longitude": 110.204185,
+        "ne_count": 31,
+        "poi_name": "ALUN ALUN KENDAL",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.70487,
+        "longitude": 110.6018,
+        "ne_count": 65,
+        "poi_name": "ALUN ALUN KLATEN",
+        "region": "CENTRAL JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G"
+        ],
+        "latitude": -8.097894,
+        "longitude": 112.16553,
+        "ne_count": 1,
+        "poi_name": "ALUN ALUN KOTA BLITAR",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.867316,
+        "longitude": 109.1378,
+        "ne_count": 38,
+        "poi_name": "ALUN ALUN KOTA TEGAL",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.807799,
+        "longitude": 110.841675,
+        "ne_count": 61,
+        "poi_name": "ALUN ALUN KUDUS",
+        "region": "CENTRAL JAVA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.120197,
+        "longitude": 112.4156,
+        "ne_count": 12,
+        "poi_name": "ALUN ALUN LAMONGAN",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G"
+        ],
+        "latitude": -7.602175,
+        "longitude": 111.90179,
+        "ne_count": 2,
+        "poi_name": "ALUN ALUN NGANJUK",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.7535086,
+        "longitude": 111.04003,
+        "ne_count": 51,
+        "poi_name": "ALUN ALUN PATI",
+        "region": "CENTRAL JAVA",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.870667,
+        "longitude": 111.46344,
+        "ne_count": 4,
+        "poi_name": "ALUN ALUN PONOROGO",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7130666,
+        "longitude": 110.00908,
+        "ne_count": 37,
+        "poi_name": "ALUN ALUN PURWOREJO",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.7057967000000005,
+        "longitude": 111.348694,
+        "ne_count": 27,
+        "poi_name": "ALUN ALUN REMBANG",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -9.10442,
+        "longitude": 124.897354,
+        "ne_count": 8,
+        "poi_name": "ALUN ALUN SIMPANG 5 ATAMBUA",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.3499384,
+        "longitude": 108.110794,
+        "ne_count": 35,
+        "poi_name": "ALUN ALUN SINGAPARNA",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.1210978,
+        "longitude": 106.11278,
+        "ne_count": 11,
+        "poi_name": "ALUN ALUN TAMAN MERDEKA",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.3160353,
+        "longitude": 110.175446,
+        "ne_count": 26,
+        "poi_name": "ALUN ALUN TEMANGGUNG",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.0486555,
+        "longitude": 111.70955,
+        "ne_count": 14,
+        "poi_name": "ALUN ALUN TRENGGALEK",
+        "region": "EAST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.8574667,
+        "longitude": 110.15722,
+        "ne_count": 34,
+        "poi_name": "ALUN ALUN WATES",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.9649577,
+        "longitude": 110.60084,
+        "ne_count": 46,
+        "poi_name": "ALUN ALUN WONOSARI",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.358716,
+        "longitude": 109.90311,
+        "ne_count": 47,
+        "poi_name": "ALUN ALUN WONOSOBO",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.9218144,
+        "longitude": 107.607025,
+        "ne_count": 39,
+        "poi_name": "ALUN-ALUN BANDUNG",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.3695016,
+        "longitude": 108.541435,
+        "ne_count": 24,
+        "poi_name": "ALUN-ALUN BANJAR",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.9694766999999995,
+        "longitude": 111.41302,
+        "ne_count": 28,
+        "poi_name": "ALUN-ALUN BLORA",
+        "region": "CENTRAL JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.148229,
+        "longitude": 111.881615,
+        "ne_count": 5,
+        "poi_name": "ALUN-ALUN BOJONEGORO",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.727156,
+        "longitude": 109.00953,
+        "ne_count": 33,
+        "poi_name": "ALUN-ALUN CILACAP",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.709681,
+        "longitude": 108.55901,
+        "ne_count": 35,
+        "poi_name": "ALUN-ALUN CIREBON",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.216215,
+        "longitude": 107.90147,
+        "ne_count": 49,
+        "poi_name": "ALUN-ALUN GARUT",
+        "region": "WEST JAVA",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.1169157,
+        "longitude": 105.30483,
+        "ne_count": 29,
+        "poi_name": "ALUN-ALUN KOTA METRO",
+        "region": "SUMBAGSEL",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.8905945,
+        "longitude": 109.67638,
+        "ne_count": 50,
+        "poi_name": "ALUN-ALUN KOTA PEKALONGAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.9827905,
+        "longitude": 108.47627,
+        "ne_count": 56,
+        "poi_name": "ALUN-ALUN KUNINGAN",
+        "region": "WEST JAVA",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.835082,
+        "longitude": 108.22769,
+        "ne_count": 37,
+        "poi_name": "ALUN-ALUN MAJALENGKA",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.298648,
+        "longitude": 108.76268,
+        "ne_count": 26,
+        "poi_name": "ALUN-ALUN MAJENANG",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.4025807,
+        "longitude": 111.44501,
+        "ne_count": 7,
+        "poi_name": "ALUN-ALUN NGAWI",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.0808096,
+        "longitude": 110.91731,
+        "ne_count": 56,
+        "poi_name": "ALUN-ALUN PURWODADI",
+        "region": "CENTRAL JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.424353,
+        "longitude": 109.23021,
+        "ne_count": 38,
+        "poi_name": "ALUN-ALUN PURWOKERTO",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.312084,
+        "longitude": 105.74303,
+        "ne_count": 12,
+        "poi_name": "ALUN-ALUN SRIBHAWONO",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.860067,
+        "longitude": 107.920715,
+        "ne_count": 30,
+        "poi_name": "ALUN-ALUN SUMEDANG",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.32619,
+        "longitude": 108.22418,
+        "ne_count": 70,
+        "poi_name": "ALUN-ALUN TASIKMALAYA",
+        "region": "WEST JAVA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.311173,
+        "longitude": 106.82056,
+        "ne_count": 75,
+        "poi_name": "AMUSEMENT PARK - RAGUNAN ZOO",
+        "region": "JABOTABEK INNER",
+        "site_count": 19
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -1.5884018,
+        "longitude": 103.61707,
+        "ne_count": 32,
+        "poi_name": "ANCOL GENTALA ARASY",
+        "region": "SUMBAGSEL",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.1251826,
+        "longitude": 106.83348,
+        "ne_count": 141,
+        "poi_name": "ANCOL",
+        "region": "JABOTABEK INNER",
+        "site_count": 29
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.1589937,
+        "longitude": 113.48322,
+        "ne_count": 8,
+        "poi_name": "AREK LANCOR",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.5071994,
+        "longitude": 101.50895,
+        "ne_count": 17,
+        "poi_name": "ASIA FARM",
+        "region": "SUMBAGTENG",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -7.569515,
+        "longitude": 110.8293,
+        "ne_count": 108,
+        "poi_name": "BALAI KOTA GLADAK",
+        "region": "CENTRAL JAVA",
+        "site_count": 15
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.8947778,
+        "longitude": 104.70463,
+        "ne_count": 14,
+        "poi_name": "BANDAR UDARA INTERNASIONAL SMB II",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.168568,
+        "longitude": 123.66823,
+        "ne_count": 19,
+        "poi_name": "BANDARA EL TARI KUPANG",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8890796,
+        "longitude": 107.59595,
+        "ne_count": 93,
+        "poi_name": "BANDARA HUSEIN & MALL PASKAL",
+        "region": "WEST JAVA",
+        "site_count": 15
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -8.746515,
+        "longitude": 115.16726,
+        "ne_count": 59,
+        "poi_name": "BANDARA I GUSTI NGURAH RAI",
+        "region": "BALI NUSRA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.3788967,
+        "longitude": 112.78735,
+        "ne_count": 20,
+        "poi_name": "BANDARA JUANDA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.6312556,
+        "longitude": 98.87507,
+        "ne_count": 14,
+        "poi_name": "BANDARA KUALANAMU",
+        "region": "SUMBAGUT",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.487313,
+        "longitude": 119.887764,
+        "ne_count": 34,
+        "poi_name": "BANDARA LABUAN BAJO",
+        "region": "BALI NUSRA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.8969903,
+        "longitude": 110.06031,
+        "ne_count": 49,
+        "poi_name": "BANDARA NYIA",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.127067,
+        "longitude": 106.653404,
+        "ne_count": 217,
+        "poi_name": "BANDARA SOEKARNO-HATTA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 26
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": 0.46498284,
+        "longitude": 101.44828,
+        "ne_count": 21,
+        "poi_name": "BANDARA SULTAN SYARIF",
+        "region": "SUMBAGTENG",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.329566,
+        "longitude": 107.01741,
+        "ne_count": 38,
+        "poi_name": "BEKASI TIMUR REGENCY",
+        "region": "JABOTABEK OUTER",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.8114767,
+        "longitude": 102.268425,
+        "ne_count": 18,
+        "poi_name": "BENCOOLEN MALL BENGKULU",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -9.460325,
+        "longitude": 124.47459,
+        "ne_count": 29,
+        "poi_name": "BENPASI",
+        "region": "BALI NUSRA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.9913056,
+        "longitude": 104.75922,
+        "ne_count": 14,
+        "poi_name": "BENTENG KUTO BESAK",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.471954,
+        "longitude": 112.44546,
+        "ne_count": 8,
+        "poi_name": "BENTENG PANCASILA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.6079004,
+        "longitude": 98.496414,
+        "ne_count": 20,
+        "poi_name": "BINJAI SUPERMALL",
+        "region": "SUMBAGUT",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.285562,
+        "longitude": 106.72796,
+        "ne_count": 28,
+        "poi_name": "BINTARO EXCHANGE MALL",
+        "region": "JABOTABEK OUTER",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.080682,
+        "longitude": 112.19644,
+        "ne_count": 11,
+        "poi_name": "BLITAR PARK",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G"
+        ],
+        "latitude": -8.075907,
+        "longitude": 111.916885,
+        "ne_count": 3,
+        "poi_name": "BRAVO SUPERMARKET",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5489364,
+        "longitude": 106.78086,
+        "ne_count": 27,
+        "poi_name": "BUKIT CIMANGGU",
+        "region": "JABOTABEK OUTER",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5558548,
+        "longitude": 98.14633,
+        "ne_count": 12,
+        "poi_name": "BUKIT LAWANG",
+        "region": "SUMBAGUT",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.4222093000000005,
+        "longitude": 105.25818,
+        "ne_count": 23,
+        "poi_name": "BUNDARAN GAJAH",
+        "region": "SUMBAGSEL",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -2.7402203,
+        "longitude": 0,
+        "ne_count": 20,
+        "poi_name": "BUNDARAN SATAM",
+        "region": "SUMBAGSEL",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8676295,
+        "longitude": 107.6101,
+        "ne_count": 25,
+        "poi_name": "CAFE NARA PARK",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -7.607766,
+        "longitude": 110.2038,
+        "ne_count": 35,
+        "poi_name": "CANDI BOROBUDUR",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.9032454,
+        "longitude": 112.95485,
+        "ne_count": 7,
+        "poi_name": "CEMOROLAWANG BROMO",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.177158,
+        "longitude": 106.790764,
+        "ne_count": 115,
+        "poi_name": "CENTRAL PARK",
+        "region": "JABOTABEK INNER",
+        "site_count": 20
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.652312,
+        "longitude": 106.90869,
+        "ne_count": 54,
+        "poi_name": "CIMORY RIVERSIDE",
+        "region": "JABOTABEK OUTER",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.4392138,
+        "longitude": 107.04913,
+        "ne_count": 38,
+        "poi_name": "CITRA INDAH JONGGOL",
+        "region": "JABOTABEK OUTER",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.7817736,
+        "longitude": 103.56499,
+        "ne_count": 14,
+        "poi_name": "CITYMALL LAHAT",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.271308,
+        "longitude": 115.175,
+        "ne_count": 23,
+        "poi_name": "DANAU BEDUGUL",
+        "region": "BALI NUSRA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.182771,
+        "longitude": 107.01445,
+        "ne_count": 31,
+        "poi_name": "DANAU MARAKASH",
+        "region": "JABOTABEK OUTER",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.657351,
+        "longitude": 115.2653,
+        "ne_count": 18,
+        "poi_name": "DENPASAR FESTIVAL",
+        "region": "BALI NUSRA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.1047366,
+        "longitude": 106.10528,
+        "ne_count": 12,
+        "poi_name": "DEPATI AMIR",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.2013373,
+        "longitude": 109.91318,
+        "ne_count": 18,
+        "poi_name": "DIENG",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.265841,
+        "longitude": 113.35667,
+        "ne_count": 8,
+        "poi_name": "DIRA PARK KENCONG",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.238192,
+        "longitude": 110.433174,
+        "ne_count": 24,
+        "poi_name": "DUSUN SEMILIR",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8416233,
+        "longitude": 107.60123,
+        "ne_count": 29,
+        "poi_name": "ELDORADO",
+        "region": "WEST JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.5132265,
+        "longitude": 101.449814,
+        "ne_count": 34,
+        "poi_name": "GBIP IMANUEL - RTH KACA MAYANG",
+        "region": "SUMBAGTENG",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.209925,
+        "longitude": 110.34214,
+        "ne_count": 47,
+        "poi_name": "GEDONG SONGO",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": 3.5774727,
+        "longitude": 98.677605,
+        "ne_count": 37,
+        "poi_name": "GEREJA HKBP SUDIRMAN MEDAN",
+        "region": "SUMBAGUT",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.615221,
+        "longitude": 120.46441,
+        "ne_count": 15,
+        "poi_name": "GEREJA RUTENG",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.974733,
+        "longitude": 104.753654,
+        "ne_count": 27,
+        "poi_name": "GEREJA ST. JOSEPH PALEMBANG",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.351898,
+        "longitude": 116.04093,
+        "ne_count": 70,
+        "poi_name": "GILI-GILI",
+        "region": "BALI NUSRA",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5605066,
+        "longitude": 98.662926,
+        "ne_count": 19,
+        "poi_name": "GKPI PEMEN PADANG BULAN",
+        "region": "SUMBAGUT",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.2540426,
+        "longitude": 110.39933,
+        "ne_count": 25,
+        "poi_name": "GOA KEREP AMBARAWA",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.598191,
+        "longitude": 109.5174,
+        "ne_count": 30,
+        "poi_name": "GOMBONG",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.393493,
+        "longitude": 109.36104,
+        "ne_count": 29,
+        "poi_name": "GOR GOENTOER DARJONO",
+        "region": "CENTRAL JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.429483,
+        "longitude": 106.826965,
+        "ne_count": 44,
+        "poi_name": "GRAND DEPOK CITY",
+        "region": "JABOTABEK OUTER",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.151844,
+        "longitude": 112.63567,
+        "ne_count": 46,
+        "poi_name": "GRESIK KOTA BARU",
+        "region": "EAST JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8999763,
+        "longitude": 107.61876,
+        "ne_count": 68,
+        "poi_name": "HANGOUT GASIBU",
+        "region": "WEST JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.888936,
+        "longitude": 112.530045,
+        "ne_count": 27,
+        "poi_name": "JATIM PARK 2",
+        "region": "EAST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.896762,
+        "longitude": 112.55366,
+        "ne_count": 13,
+        "poi_name": "JATIM PARK 3",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.146243,
+        "longitude": 106.84582,
+        "ne_count": 82,
+        "poi_name": "JIEXPO",
+        "region": "JABOTABEK INNER",
+        "site_count": 13
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.521949,
+        "longitude": 110.81548,
+        "ne_count": 51,
+        "poi_name": "KADIPIRO WETAN SOLO",
+        "region": "CENTRAL JAVA",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.876089,
+        "longitude": 109.08029,
+        "ne_count": 16,
+        "poi_name": "KALIGANGSA ASRI TEGAL",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.2953973,
+        "longitude": 112.73799,
+        "ne_count": 6,
+        "poi_name": "KEBUN BINATANG SURABAYA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.8125772,
+        "longitude": 112.01601,
+        "ne_count": 9,
+        "poi_name": "KEDIRI TOWN SQUARE",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.9689345,
+        "longitude": 109.6516,
+        "ne_count": 34,
+        "poi_name": "KEDUNGWUNI TIMUR",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.87862,
+        "longitude": 109.14231,
+        "ne_count": 21,
+        "poi_name": "KEJAMBON TEGAL",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.2720923,
+        "longitude": 106.98707,
+        "ne_count": 28,
+        "poi_name": "KEMANG PRATAMA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.915989,
+        "longitude": 107.64224,
+        "ne_count": 40,
+        "poi_name": "KIARA ARTHA PARK",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -1.6189626,
+        "longitude": 103.57707,
+        "ne_count": 37,
+        "poi_name": "KOD SIPIN",
+        "region": "SUMBAGSEL",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.6024628,
+        "longitude": 98.70695,
+        "ne_count": 32,
+        "poi_name": "KOMPLEK MMTC",
+        "region": "SUMBAGUT",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.303926,
+        "longitude": 105.841545,
+        "ne_count": 10,
+        "poi_name": "KONDOMINIUM LIPPO CARITA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.222563,
+        "longitude": 106.842514,
+        "ne_count": 93,
+        "poi_name": "KOTA CASABLANCA",
+        "region": "JABOTABEK INNER",
+        "site_count": 18
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.968097,
+        "longitude": 110.4279,
+        "ne_count": 84,
+        "poi_name": "KOTA LAMA SEMARANG",
+        "region": "CENTRAL JAVA",
+        "site_count": 15
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.135185,
+        "longitude": 106.81324,
+        "ne_count": 35,
+        "poi_name": "KOTA TUA",
+        "region": "JABOTABEK INNER",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5448363,
+        "longitude": 98.69879,
+        "ne_count": 16,
+        "poi_name": "KUPJ",
+        "region": "SUMBAGUT",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -8.894285,
+        "longitude": 116.29527,
+        "ne_count": 100,
+        "poi_name": "KUTA MANDALIKA",
+        "region": "BALI NUSRA",
+        "site_count": 15
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.2380733,
+        "longitude": 112.74479,
+        "ne_count": 4,
+        "poi_name": "KYA KYA KEMBANG JEPUN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.453871,
+        "longitude": 118.726906,
+        "ne_count": 24,
+        "poi_name": "LAPANGAN MERDEKA BIMA",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.6032896,
+        "longitude": 98.4813,
+        "ne_count": 25,
+        "poi_name": "LAPANGAN MERDEKA KOTA BINJAI",
+        "region": "SUMBAGUT",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -2.063652,
+        "longitude": 101.39501,
+        "ne_count": 19,
+        "poi_name": "LAPANGAN MERDEKA SUNGAI PENUH",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -1.4816182,
+        "longitude": 102.11739,
+        "ne_count": 27,
+        "poi_name": "LAPANGAN SEMAGOR",
+        "region": "SUMBAGSEL",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.119981,
+        "longitude": 115.07735,
+        "ne_count": 22,
+        "poi_name": "LEWA",
+        "region": "BALI NUSRA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.387522,
+        "longitude": 123.39572,
+        "ne_count": 22,
+        "poi_name": "LEWOLEBA",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -3.2881439,
+        "longitude": 102.877975,
+        "ne_count": 15,
+        "poi_name": "LIPPO MALL LINGGAU",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.158795,
+        "longitude": 123.6112,
+        "ne_count": 33,
+        "poi_name": "LIPPO MALL",
+        "region": "BALI NUSRA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.2443233,
+        "longitude": 106.65311,
+        "ne_count": 59,
+        "poi_name": "LIVING WORLD ALAM SUTERA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.59267,
+        "longitude": 116.10548,
+        "ne_count": 22,
+        "poi_name": "LOMBOK EPICENTRUM MALL",
+        "region": "BALI NUSRA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G"
+        ],
+        "latitude": -8.084483,
+        "longitude": 112.17663,
+        "ne_count": 1,
+        "poi_name": "MAKAM BUNG KARNO",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -7.7925606,
+        "longitude": 110.365845,
+        "ne_count": 226,
+        "poi_name": "MALIOBORO JOGJA",
+        "region": "CENTRAL JAVA",
+        "site_count": 38
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.342635,
+        "longitude": 108.21644,
+        "ne_count": 33,
+        "poi_name": "MALL ASIA PLAZA",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.908514,
+        "longitude": 107.610825,
+        "ne_count": 45,
+        "poi_name": "MALL BIP & BEC",
+        "region": "WEST JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.988584,
+        "longitude": 110.4239,
+        "ne_count": 15,
+        "poi_name": "MALL CIPUTRA",
+        "region": "SUMBAGTENG",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.929559,
+        "longitude": 107.58657,
+        "ne_count": 24,
+        "poi_name": "MALL FESTIVAL CITYLINK",
+        "region": "WEST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.9766216,
+        "longitude": 112.6245,
+        "ne_count": 9,
+        "poi_name": "MALL MOG",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -2.9760206,
+        "longitude": 104.74193,
+        "ne_count": 30,
+        "poi_name": "MALL PALEMBANG SQUARE",
+        "region": "SUMBAGSEL",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.53202647,
+        "longitude": 101.44794,
+        "ne_count": 33,
+        "poi_name": "MALL PEKANBARU",
+        "region": "SUMBAGTENG",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.2627373,
+        "longitude": 106.865776,
+        "ne_count": 53,
+        "poi_name": "MALL PGC",
+        "region": "JABOTABEK INNER",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.889085,
+        "longitude": 107.59595,
+        "ne_count": 77,
+        "poi_name": "MALL PVJ & CIWALK",
+        "region": "WEST JAVA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.193879,
+        "longitude": 106.63411,
+        "ne_count": 29,
+        "poi_name": "MALL TANG CITY",
+        "region": "JABOTABEK OUTER",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.923791,
+        "longitude": 107.63507,
+        "ne_count": 24,
+        "poi_name": "MALL TSM",
+        "region": "WEST JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.372988,
+        "longitude": 106.83472,
+        "ne_count": 41,
+        "poi_name": "MARGO CITY",
+        "region": "JABOTABEK OUTER",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5903394,
+        "longitude": 98.67804,
+        "ne_count": 26,
+        "poi_name": "MERDEKA WALK",
+        "region": "SUMBAGUT",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8942113,
+        "longitude": 109.38848,
+        "ne_count": 30,
+        "poi_name": "MULYOHARJO",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.8784337,
+        "longitude": 112.520294,
+        "ne_count": 19,
+        "poi_name": "MUSEUM ANGKUT",
+        "region": "EAST JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7508225,
+        "longitude": 113.216385,
+        "ne_count": 8,
+        "poi_name": "MUSEUM PROBOLINGGO",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.497798,
+        "longitude": 106.83961,
+        "ne_count": 46,
+        "poi_name": "NANGGEWER INDAH",
+        "region": "JABOTABEK OUTER",
+        "site_count": 9
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.8587713,
+        "longitude": 111.171326,
+        "ne_count": 30,
+        "poi_name": "NGROMPAK JATISRONO",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.176501,
+        "longitude": 123.57153,
+        "ne_count": 10,
+        "poi_name": "NUNBAUN DELHA RESIDENTIAL",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.17664,
+        "longitude": 123.564896,
+        "ne_count": 14,
+        "poi_name": "NUNBAUN SABU RESIDENTIAL",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.9109044,
+        "longitude": 108.485886,
+        "ne_count": 31,
+        "poi_name": "OBJEK WISATA CIBULAN",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.190437,
+        "longitude": 123.60072,
+        "ne_count": 32,
+        "poi_name": "OEPURA RESIDENTIAL",
+        "region": "BALI NUSRA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -3.0358515,
+        "longitude": 104.791534,
+        "ne_count": 9,
+        "poi_name": "OPI MALL / OPI WATERBOOM",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.198659,
+        "longitude": 109.16434,
+        "ne_count": 15,
+        "poi_name": "OW GUCI",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.3493004,
+        "longitude": 109.34974,
+        "ne_count": 19,
+        "poi_name": "OW OWABONG",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.528449,
+        "longitude": 0,
+        "ne_count": 13,
+        "poi_name": "PADANGBAI",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.603053,
+        "longitude": 116.10149,
+        "ne_count": 42,
+        "poi_name": "PAGESANGAN",
+        "region": "BALI NUSRA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.6238976,
+        "longitude": 111.52093,
+        "ne_count": 10,
+        "poi_name": "PAHLAWAN STREET CENTER",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.29028,
+        "longitude": 112.67373,
+        "ne_count": 15,
+        "poi_name": "PAKUWON MALL",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -2.9790058,
+        "longitude": 104.74546,
+        "ne_count": 15,
+        "poi_name": "PALEMBANG ICON",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.8947768,
+        "longitude": 104.70464,
+        "ne_count": 14,
+        "poi_name": "PALEMBANG INDAH MALL",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -2.9511316,
+        "longitude": 104.76222,
+        "ne_count": 18,
+        "poi_name": "PALEMBANG TRADE CENTER",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.0878344,
+        "longitude": 105.88397,
+        "ne_count": 28,
+        "poi_name": "PANTAI ANYER",
+        "region": "JABOTABEK OUTER",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.347997,
+        "longitude": 111.97347,
+        "ne_count": 7,
+        "poi_name": "PANTAI ASMARA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.40287,
+        "longitude": 112.53986,
+        "ne_count": 6,
+        "poi_name": "PANTAI BALEKAMBANG",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.12883,
+        "longitude": 110.54878,
+        "ne_count": 15,
+        "poi_name": "PANTAI BARON",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G"
+        ],
+        "latitude": -6.891409,
+        "longitude": 112.466484,
+        "ne_count": 1,
+        "poi_name": "PANTAI DALEGAN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.264081000000001,
+        "longitude": 111.77408,
+        "ne_count": 7,
+        "poi_name": "PANTAI GEMAH",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.058354,
+        "longitude": 106.685196,
+        "ne_count": 11,
+        "poi_name": "PANTAI INDAH KAPUK 2",
+        "region": "JABOTABEK OUTER",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.4995565,
+        "longitude": 107.38599,
+        "ne_count": 3,
+        "poi_name": "PANTAI JAYANTI",
+        "region": "WEST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "4G"
+        ],
+        "latitude": -6.9574823,
+        "longitude": 106.46779,
+        "ne_count": 9,
+        "poi_name": "PANTAI KARANGHAWU",
+        "region": "JABOTABEK OUTER",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.896205,
+        "longitude": 112.09021,
+        "ne_count": 12,
+        "poi_name": "PANTAI KELAPA TUBAN",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.2316036,
+        "longitude": 112.79374,
+        "ne_count": 17,
+        "poi_name": "PANTAI KENJERAN",
+        "region": "EAST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.222475,
+        "longitude": 110.94931,
+        "ne_count": 8,
+        "poi_name": "PANTAI KLAYAR",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.714785,
+        "longitude": 115.168274,
+        "ne_count": 119,
+        "poi_name": "PANTAI KUTA",
+        "region": "BALI NUSRA",
+        "site_count": 18
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.373526,
+        "longitude": 104.123215,
+        "ne_count": 12,
+        "poi_name": "PANTAI MELASTI",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.5180620000000005,
+        "longitude": 105.264595,
+        "ne_count": 4,
+        "poi_name": "PANTAI MUTUN LAMPUNG",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.024578,
+        "longitude": 110.32982,
+        "ne_count": 23,
+        "poi_name": "PANTAI PARANGTRITIS",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.285524,
+        "longitude": 111.727585,
+        "ne_count": 13,
+        "poi_name": "PANTAI PRIGI",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7342215,
+        "longitude": 109.02164,
+        "ne_count": 24,
+        "poi_name": "PANTAI TELUK PENYU",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -1.8865767,
+        "longitude": 106.17568,
+        "ne_count": 3,
+        "poi_name": "PANTAI TIKUS EMAS",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.4075503,
+        "longitude": 108.42593,
+        "ne_count": 20,
+        "poi_name": "PANTAI TIRTAMAYA",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.861756,
+        "longitude": 109.37784,
+        "ne_count": 15,
+        "poi_name": "PANTAI WIDURI",
+        "region": "CENTRAL JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.4634738,
+        "longitude": 102.52836,
+        "ne_count": 19,
+        "poi_name": "PASAR BANG MEGO",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.1667237,
+        "longitude": 106.83352,
+        "ne_count": 47,
+        "poi_name": "PASAR BARU",
+        "region": "JABOTABEK INNER",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.814585,
+        "longitude": 120.607574,
+        "ne_count": 20,
+        "poi_name": "PASAR BORONG",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -9.857074,
+        "longitude": 124.28782,
+        "ne_count": 56,
+        "poi_name": "PASAR INPRES SOE",
+        "region": "BALI NUSRA",
+        "site_count": 10
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.6464176,
+        "longitude": 102.57918,
+        "ne_count": 27,
+        "poi_name": "PASAR KEPAHIANG",
+        "region": "SUMBAGSEL",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.178736,
+        "longitude": 106.63019,
+        "ne_count": 48,
+        "poi_name": "PASAR LAMA TANGERANG",
+        "region": "JABOTABEK OUTER",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.279551,
+        "longitude": 106.71891,
+        "ne_count": 40,
+        "poi_name": "PASAR MODERN BINTARO",
+        "region": "JABOTABEK OUTER",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.154449,
+        "longitude": 123.59306,
+        "ne_count": 20,
+        "poi_name": "PASAR OEBA",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.190257,
+        "longitude": 113.2462,
+        "ne_count": 17,
+        "poi_name": "PASAR SRIMANGUNAN",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.9336953,
+        "longitude": 109.73056,
+        "ne_count": 20,
+        "poi_name": "PASEKARAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.869836,
+        "longitude": 109.12887,
+        "ne_count": 42,
+        "poi_name": "PASIFIC MALL",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": 0.5319407,
+        "longitude": 101.447945,
+        "ne_count": 37,
+        "poi_name": "PEKANBARU SHOOPING MALL & LEISURE COMPLEX",
+        "region": "SUMBAGTENG",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.86909,
+        "longitude": 105.75335,
+        "ne_count": 24,
+        "poi_name": "PELABUHAN BAKAUHENI",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -1.630034,
+        "longitude": 105.734474,
+        "ne_count": 9,
+        "poi_name": "PELABUHAN BELINYU",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.164377,
+        "longitude": 114.43455,
+        "ne_count": 25,
+        "poi_name": "PELABUHAN GILIMANUK",
+        "region": "BALI NUSRA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.141552,
+        "longitude": 114.40368,
+        "ne_count": 10,
+        "poi_name": "PELABUHAN KETAPANG",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -0.81181586,
+        "longitude": 103.46384,
+        "ne_count": 15,
+        "poi_name": "PELABUHAN KUALA TUNGKAL ILIR",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -8.36913,
+        "longitude": 123.4097,
+        "ne_count": 14,
+        "poi_name": "PELABUHAN LEMBATA",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.922284,
+        "longitude": 105.99521,
+        "ne_count": 38,
+        "poi_name": "PELABUHAN MERAK",
+        "region": "JABOTABEK OUTER",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -2.0709267,
+        "longitude": 105.16177,
+        "ne_count": 4,
+        "poi_name": "PELABUHAN MUNTOK",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -10.685369,
+        "longitude": 123.1022,
+        "ne_count": 13,
+        "poi_name": "PELABUHAN ROTE",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -10.490188,
+        "longitude": 121.83906,
+        "ne_count": 21,
+        "poi_name": "PELABUHAN SABU",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.886679,
+        "longitude": 109.38057,
+        "ne_count": 24,
+        "poi_name": "PELUTAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.3295417,
+        "longitude": 107.349655,
+        "ne_count": 35,
+        "poi_name": "PERUMAHAN CKM",
+        "region": "JABOTABEK OUTER",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5123112,
+        "longitude": 98.63241,
+        "ne_count": 5,
+        "poi_name": "PERUMAHAN SIMALINGKAR",
+        "region": "SUMBAGUT",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.250664,
+        "longitude": 107.10668,
+        "ne_count": 39,
+        "poi_name": "PERUMAHAN_METLAND_CIBITUNG",
+        "region": "JABOTABEK OUTER",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.2451234,
+        "longitude": 106.99021,
+        "ne_count": 58,
+        "poi_name": "PERUMNAS 1&2 BEKASI",
+        "region": "JABOTABEK OUTER",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.614512,
+        "longitude": 98.63482,
+        "ne_count": 25,
+        "poi_name": "PERUMNAS HELVETIA",
+        "region": "SUMBAGUT",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7455645,
+        "longitude": 109.58584,
+        "ne_count": 34,
+        "poi_name": "PETANAHAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.938743,
+        "longitude": 105.218216,
+        "ne_count": 2,
+        "poi_name": "PLAZA BANDAR JAYA",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.52854985,
+        "longitude": 101.447174,
+        "ne_count": 7,
+        "poi_name": "PLAZA SUKARAMAI",
+        "region": "SUMBAGTENG",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -4.5353417,
+        "longitude": 104.657684,
+        "ne_count": 22,
+        "poi_name": "POI DESA MULYASARI",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.9281437,
+        "longitude": 103.86837,
+        "ne_count": 4,
+        "poi_name": "POI DESA TANJUNG AGUNG",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.193768,
+        "longitude": 103.930046,
+        "ne_count": 20,
+        "poi_name": "POI LABUAN JUKUNG BEACH KRUI",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": 3.5947676,
+        "longitude": 98.67446,
+        "ne_count": 42,
+        "poi_name": "POI MALL DELI PARK",
+        "region": "SUMBAGUT",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -3.349679,
+        "longitude": 104.33315,
+        "ne_count": 8,
+        "poi_name": "POSKO TAHU SUMEDANG",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.9738874,
+        "longitude": 110.40059,
+        "ne_count": 31,
+        "poi_name": "PRAMBANAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.09998,
+        "longitude": 106.740944,
+        "ne_count": 91,
+        "poi_name": "PULAU D REKLAMASI",
+        "region": "JABOTABEK INNER",
+        "site_count": 16
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -10.173477,
+        "longitude": 123.61306,
+        "ne_count": 15,
+        "poi_name": "RAMAYANA",
+        "region": "BALI NUSRA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.7164054,
+        "longitude": 105.65759,
+        "ne_count": 12,
+        "poi_name": "REST AREA 20",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.2462363,
+        "longitude": 105.138725,
+        "ne_count": 7,
+        "poi_name": "REST AREA 215",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.0816803,
+        "longitude": 105.15866,
+        "ne_count": 4,
+        "poi_name": "REST AREA 234",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.9061503,
+        "longitude": 108.98307,
+        "ne_count": 15,
+        "poi_name": "REST AREA 260 BANJARATMA",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.9206505,
+        "longitude": 109.863556,
+        "ne_count": 15,
+        "poi_name": "REST AREA 360 BATANG",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.326217,
+        "longitude": 110.53123,
+        "ne_count": 29,
+        "poi_name": "REST AREA 456 SALATIGA",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.423522,
+        "longitude": 105.39832,
+        "ne_count": 7,
+        "poi_name": "REST AREA 50",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.480131,
+        "longitude": 110.919365,
+        "ne_count": 32,
+        "poi_name": "REST AREA 519 SRAGEN",
+        "region": "CENTRAL JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -5.3194284,
+        "longitude": 105.266975,
+        "ne_count": 3,
+        "poi_name": "REST AREA 87",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.7065663,
+        "longitude": 108.22594,
+        "ne_count": 11,
+        "poi_name": "REST AREA CIPALI 164B&166A",
+        "region": "WEST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.957784,
+        "longitude": 110.01467,
+        "ne_count": 23,
+        "poi_name": "REST AREA KM 379",
+        "region": "CENTRAL JAVA",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.3042045,
+        "longitude": 106.65871,
+        "ne_count": 14,
+        "poi_name": "REST AREA KM. 43 BALARAJA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -5.4229565,
+        "longitude": 104.73138,
+        "ne_count": 18,
+        "poi_name": "REST AREA PARK GISTING",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.54703,
+        "longitude": 111.75834,
+        "ne_count": 8,
+        "poi_name": "REST AREA SARADAN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.1291647,
+        "longitude": 110.4242,
+        "ne_count": 34,
+        "poi_name": "REST AREA UNGARAN",
+        "region": "CENTRAL JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.471763,
+        "longitude": 107.4805,
+        "ne_count": 15,
+        "poi_name": "REST. HJ. YETTI CIBUNGUR PURWAKARTA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "4G"
+        ],
+        "latitude": -8.265735,
+        "longitude": 113.356476,
+        "ne_count": 5,
+        "poi_name": "ROXY MALL JEMBER",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.308878,
+        "longitude": 112.73475,
+        "ne_count": 21,
+        "poi_name": "ROYAL PLAZA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8910584,
+        "longitude": 112.04985,
+        "ne_count": 4,
+        "poi_name": "SAMUDERA SUPERMARKET",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.707171,
+        "longitude": 115.26262,
+        "ne_count": 58,
+        "poi_name": "SANUR",
+        "region": "BALI NUSRA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.6688266,
+        "longitude": 111.14397,
+        "ne_count": 12,
+        "poi_name": "SEKIPAN KARANGANYAR",
+        "region": "CENTRAL JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.8184423,
+        "longitude": 0,
+        "ne_count": 12,
+        "poi_name": "SELECTA",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -6.990857,
+        "longitude": 110.42798,
+        "ne_count": 104,
+        "poi_name": "SIMPANG 5 SEMARANG",
+        "region": "CENTRAL JAVA",
+        "site_count": 14
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.815279,
+        "longitude": 0,
+        "ne_count": 10,
+        "poi_name": "SIMPANG LIMA GUMUL",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.5764956,
+        "longitude": 98.62624,
+        "ne_count": 26,
+        "poi_name": "SIMPATI STAR",
+        "region": "SUMBAGUT",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 3.1934,
+        "longitude": 98.5013,
+        "ne_count": 19,
+        "poi_name": "SINABUNG",
+        "region": "SUMBAGUT",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5567737,
+        "longitude": 107.445984,
+        "ne_count": 19,
+        "poi_name": "SITU BULEUD",
+        "region": "JABOTABEK OUTER",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.7200804,
+        "longitude": 110.361725,
+        "ne_count": 21,
+        "poi_name": "SLEMAN CITY HALL",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.3263974,
+        "longitude": 107.29253,
+        "ne_count": 54,
+        "poi_name": "SPBU GALUH MAS",
+        "region": "JABOTABEK OUTER",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.921977,
+        "longitude": 106.928665,
+        "ne_count": 40,
+        "poi_name": "SUKABUMI CITIMALL",
+        "region": "JABOTABEK OUTER",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.2260847,
+        "longitude": 107.00107,
+        "ne_count": 40,
+        "poi_name": "SUMMARECON BEKASI",
+        "region": "JABOTABEK OUTER",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.240778,
+        "longitude": 106.62832,
+        "ne_count": 53,
+        "poi_name": "SUMMARECON MALL SERPONG",
+        "region": "JABOTABEK OUTER",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": 0.5592005,
+        "longitude": 101.43288,
+        "ne_count": 12,
+        "poi_name": "SWALAYAN HAWAI RUMBAI",
+        "region": "SUMBAGTENG",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.3856497,
+        "longitude": 112.63814,
+        "ne_count": 14,
+        "poi_name": "TAMAN ADIPURA",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.6657033,
+        "longitude": 112.606125,
+        "ne_count": 8,
+        "poi_name": "TAMAN GHANJARAN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.1239324,
+        "longitude": 104.16752,
+        "ne_count": 11,
+        "poi_name": "TAMAN KOTA BATURAJA",
+        "region": "SUMBAGSEL",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -2.8656564,
+        "longitude": 108.277565,
+        "ne_count": 16,
+        "poi_name": "TAMAN KOTA MANGGAR",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -2.8750381000000003,
+        "longitude": 103.83761,
+        "ne_count": 20,
+        "poi_name": "TAMAN KOTA SEKAYU",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.490297,
+        "longitude": 117.42053,
+        "ne_count": 34,
+        "poi_name": "TAMAN MANGGA SUMBAWA",
+        "region": "BALI NUSRA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.390474,
+        "longitude": 109.68683,
+        "ne_count": 11,
+        "poi_name": "TAMAN MARGASATWA SERULINGMAS",
+        "region": "CENTRAL JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.464038,
+        "longitude": 102.90335,
+        "ne_count": 18,
+        "poi_name": "TAMAN MERDEKA MANNA",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.3024244,
+        "longitude": 106.895134,
+        "ne_count": 128,
+        "poi_name": "TAMAN MINI INDONESIA INDAH",
+        "region": "JABOTABEK INNER",
+        "site_count": 32
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.6823277,
+        "longitude": 112.5453,
+        "ne_count": 9,
+        "poi_name": "TAMAN PACET",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7581244,
+        "longitude": 112.66448,
+        "ne_count": 6,
+        "poi_name": "TAMAN SAFARI 2 PRIGEN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.572807,
+        "longitude": 116.102,
+        "ne_count": 20,
+        "poi_name": "TAMAN UDAYANA",
+        "region": "BALI NUSRA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.313172,
+        "longitude": 109.228874,
+        "ne_count": 57,
+        "poi_name": "TAMAN WISATA BATURRADEN",
+        "region": "CENTRAL JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5583234,
+        "longitude": 106.76966,
+        "ne_count": 42,
+        "poi_name": "TAMAN YASMIN",
+        "region": "JABOTABEK OUTER",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.2019186,
+        "longitude": 106.806175,
+        "ne_count": 165,
+        "poi_name": "TANAH ABANG",
+        "region": "JABOTABEK INNER",
+        "site_count": 26
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.659307,
+        "longitude": 111.14496,
+        "ne_count": 21,
+        "poi_name": "TAWANGMANGU",
+        "region": "CENTRAL JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.7815475,
+        "longitude": 110.50458,
+        "ne_count": 12,
+        "poi_name": "TEBING BREKSI",
+        "region": "CENTRAL JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.597093,
+        "longitude": 106.81306,
+        "ne_count": 44,
+        "poi_name": "TEGALLEGA",
+        "region": "WEST JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.6760736,
+        "longitude": 111.220184,
+        "ne_count": 7,
+        "poi_name": "TELAGA SARANGAN",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.53848,
+        "longitude": 118.46184,
+        "ne_count": 42,
+        "poi_name": "TELKOM DOMPU",
+        "region": "BALI NUSRA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7375307,
+        "longitude": 108.49764,
+        "ne_count": 58,
+        "poi_name": "TEMPAT REKREASI BATU KARAS",
+        "region": "WEST JAVA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.738743,
+        "longitude": 107.6533,
+        "ne_count": 30,
+        "poi_name": "TEMPAT REKREASI CIATER",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.784942,
+        "longitude": 107.6515,
+        "ne_count": 26,
+        "poi_name": "TEMPAT REKREASI CIKOLE LEMBANG",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.695166,
+        "longitude": 107.0463,
+        "ne_count": 7,
+        "poi_name": "TEMPAT REKREASI CIPANAS / KOTA BUNGA",
+        "region": "JABOTABEK OUTER",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.695166,
+        "longitude": 107.0463,
+        "ne_count": 213,
+        "poi_name": "TEMPAT REKREASI CIPANAS / KOTA BUNGA",
+        "region": "WEST JAVA",
+        "site_count": 41
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.178282,
+        "longitude": 107.871185,
+        "ne_count": 24,
+        "poi_name": "TEMPAT REKREASI CIPANAS GARUT",
+        "region": "WEST JAVA",
+        "site_count": 5
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.102369,
+        "longitude": 107.46359,
+        "ne_count": 67,
+        "poi_name": "TEMPAT REKREASI CIWIDEY",
+        "region": "WEST JAVA",
+        "site_count": 12
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.2287865,
+        "longitude": 107.72866,
+        "ne_count": 8,
+        "poi_name": "TEMPAT REKREASI KAWAH DARAJAT",
+        "region": "WEST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.817787,
+        "longitude": 107.61846,
+        "ne_count": 128,
+        "poi_name": "TEMPAT REKREASI LEMBANG",
+        "region": "WEST JAVA",
+        "site_count": 29
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8144207,
+        "longitude": 107.62295,
+        "ne_count": 31,
+        "poi_name": "TEMPAT REKREASI MARIBAYA",
+        "region": "WEST JAVA",
+        "site_count": 7
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7403083,
+        "longitude": 108.47242,
+        "ne_count": 104,
+        "poi_name": "TEMPAT REKREASI PANGANDARAN",
+        "region": "WEST JAVA",
+        "site_count": 18
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.764264,
+        "longitude": 108.060165,
+        "ne_count": 32,
+        "poi_name": "TEMPAT REKREASI PANTAI CIPATUJAH",
+        "region": "WEST JAVA",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.662256,
+        "longitude": 107.684944,
+        "ne_count": 62,
+        "poi_name": "TEMPAT REKREASI PANTAI SANTOLO",
+        "region": "WEST JAVA",
+        "site_count": 11
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -7.351206,
+        "longitude": 112.72512,
+        "ne_count": 7,
+        "poi_name": "TERMINAL BUNGURASIH",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.8808416999999995,
+        "longitude": 104.98151,
+        "ne_count": 5,
+        "poi_name": "TERMINAL SP PROPAU",
+        "region": "SUMBAGSEL",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.5988507,
+        "longitude": 110.81669,
+        "ne_count": 70,
+        "poi_name": "THE PARK SOLO BARU",
+        "region": "CENTRAL JAVA",
+        "site_count": 8
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G",
+          "5G"
+        ],
+        "latitude": -7.568405,
+        "longitude": 110.81293,
+        "ne_count": 106,
+        "poi_name": "THR SRIWEDARI",
+        "region": "CENTRAL JAVA",
+        "site_count": 18
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.5733757,
+        "longitude": 107.950264,
+        "ne_count": 6,
+        "poi_name": "TOL CIPALI",
+        "region": "WEST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.979759,
+        "longitude": 104.74732,
+        "ne_count": 15,
+        "poi_name": "TRANS MART",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -2.9816256,
+        "longitude": 104.747055,
+        "ne_count": 26,
+        "poi_name": "TRANSMART PCC MALL",
+        "region": "SUMBAGSEL",
+        "site_count": 4
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7007947,
+        "longitude": 112.635994,
+        "ne_count": 18,
+        "poi_name": "TRETES",
+        "region": "EAST JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -1.6304587,
+        "longitude": 103.60788,
+        "ne_count": 23,
+        "poi_name": "TUGU KRIS",
+        "region": "SUMBAGSEL",
+        "site_count": 6
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.9841294000000005,
+        "longitude": 110.409355,
+        "ne_count": 125,
+        "poi_name": "TUGU MUDA",
+        "region": "CENTRAL JAVA",
+        "site_count": 17
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -4.8345327000000005,
+        "longitude": 104.8968,
+        "ne_count": 14,
+        "poi_name": "TUGU PAYANMAS",
+        "region": "SUMBAGSEL",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.259248,
+        "longitude": 0,
+        "ne_count": 120,
+        "poi_name": "TUNJUNGAN SURABAYA",
+        "region": "EAST JAVA",
+        "site_count": 16
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -8.50721,
+        "longitude": 115.27145,
+        "ne_count": 17,
+        "poi_name": "UBUD (PLASA TELKOM)",
+        "region": "BALI NUSRA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.7224374,
+        "longitude": 113.619156,
+        "ne_count": 6,
+        "poi_name": "UTAMA RAYA",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -6.8048615,
+        "longitude": 112.600204,
+        "ne_count": 6,
+        "poi_name": "WBL",
+        "region": "EAST JAVA",
+        "site_count": 1
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.2208915,
+        "longitude": 107.57885,
+        "ne_count": 27,
+        "poi_name": "WISATA NIMO HIGHLAND",
+        "region": "WEST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "4G"
+        ],
+        "latitude": -6.6873217,
+        "longitude": 111.411995,
+        "ne_count": 9,
+        "poi_name": "WISATA PANTAI KARANGJAHE",
+        "region": "CENTRAL JAVA",
+        "site_count": 2
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.246838,
+        "longitude": 107.63854,
+        "ne_count": 18,
+        "poi_name": "WISATA SITU CIHANIWUNG",
+        "region": "WEST JAVA",
+        "site_count": 3
+      },
+      {
+        "alarm_count": 0,
+        "availability": 100,
+        "impacted_band": [
+          "2G",
+          "3G",
+          "4G"
+        ],
+        "latitude": -7.0127463,
+        "longitude": 108.408806,
+        "ne_count": 23,
+        "poi_name": "WISATA WADUK DARMA",
+        "region": "WEST JAVA",
+        "site_count": 5
+      }
+    ],
+    "summary": {
+      "alarm_count": 0,
+      "alarm_other": 0,
+      "alarm_power": 0,
+      "availability": 100
+    }
+  }

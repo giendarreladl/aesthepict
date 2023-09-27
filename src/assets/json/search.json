@@ -1,0 +1,56 @@
+{
+    "detail": {
+        "address": "Lor, Ajibarang Wetan, Kec. Ajibarang, Kabupaten Banyumas, Jawa Tengah 53163",
+        "alarm_count": 0,
+        "alarm_other": 0,
+        "alarm_power": 0,
+        "availabilty": 100,
+        "impacted_band": [
+            "2G",
+            "4G"
+        ],
+        "partially_down": 0,
+        "poi_name": "AJIBARANG CITY PARK",
+        "site_up": 8,
+        "totally_down": 0
+    },
+    "sites": [
+        {
+            "lat": -7.40849,
+            "lon": 109.08001,
+            "site_id": "PWT724",
+            "state": "UP"
+        },
+        {
+            "lat": -7.40164,
+            "lon": 109.08028,
+            "site_id": "PWT004",
+            "state": "DOWN"
+        },
+       
+        {
+            "lat": -7.4130683,
+            "lon": 109.08032,
+            "site_id": "PWT725",
+            "state": "DOWN"
+        },
+        {
+            "lat": -7.4075,
+            "lon": 109.075554,
+            "site_id": "PWT699",
+            "state": "UP"
+        },
+        {
+            "lat": -7.40849,
+            "lon": 109.08001,
+            "site_id": "PWT724",
+            "state": "DOWN"
+        },
+        {
+            "lat": -7.4130683,
+            "lon": 109.08032,
+            "site_id": "PWT725",
+            "state": "UP"
+        }
+    ]
+}

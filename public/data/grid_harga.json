@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "pilihan": "Foto Rolling Shoot",
+        "pilihan_harga": "Rp.150.000"
+    },
+    {
+        "id": 3,
+        "pilihan": "Foto Regular + Rolling",
+        "pilihan_harga": "Rp.200.000"
+    },
+    {
+        "id": 5,
+        "pilihan": "Cinematic 30 detik",
+        "pilihan_harga": "Rp.150.000"
+    },
+    {
+        "id": 6,
+        "pilihan": "Cinematic 1 menit",
+        "pilihan_harga": "Rp.200.000"
+    },
+    {
+        "id": 7,
+        "pilihan": "Cinematic 30s + Foto Rolling",
+        "pilihan_harga": "Rp.300.000"
+    },
+    {
+        "id": 4,
+        "pilihan": "Foto Prewedding",
+        "pilihan_harga": "Rp.800.000"
+    },
+    {
+        "id": 8,
+        "pilihan": "Cinematic 60s + Foto Rolling",
+        "pilihan_harga": "Rp.350.000"
+    },
+    {
+        "id": 1,
+        "pilihan": "Foto Bebas No Rolling",
+        "pilihan_harga": "Rp.100.000"
+    }
+]

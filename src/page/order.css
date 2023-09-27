@@ -1,0 +1,469 @@
+html::-webkit-scrollbar{
+    display: none;
+    overflow: hidden;
+}
+
+.menuu{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ag-header-cell {
+    color: #ffffff !important;
+}
+
+.ag-header-cell-text {
+    color: #ffffff !important;
+}
+
+.ag-header-container {
+    background: #690000;
+    color: #fff !important;
+}
+
+.ag-root-wrapper{
+    margin-top: 10%;
+}
+
+.ag-theme-alpine {
+    width:96%;
+    height:550px;
+    margin-left:28px;
+    margin-top:-8%
+}
+
+.btn:hover {
+    background: rgb(59, 0, 0);
+    color: #ffffff;
+}
+
+.btn{
+   background: transparent;
+   color:  #ffffff;
+   width: 90px;
+   margin-right:25px ;
+   border: none;
+}
+
+.btnlog label{
+    border:none; 
+    margin-left:-10px;
+    color:red;
+}
+
+.btnlog .btn{
+    width: 50%;
+}
+
+.btnlog{
+    margin-left: 10px;
+}
+
+.modal-box p{
+    color: black;
+}
+
+.btntdk{
+    color: black;
+}
+
+.dropdown {
+    width: 50px;
+}
+
+.w-10 {
+    width: 100%;
+    height: 45px;
+}
+
+
+.admin{
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.flex-1{
+    font-size: small;
+}
+
+
+.navbar{
+    /* background-color: #a1a1a1; */
+    background: linear-gradient(164.56deg, #690000 10.86%,  #980000 100%);
+    box-shadow:10px 10px 3px black;
+}
+
+.navatas{
+    color: rgb(255, 255, 255);
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 0px;
+}
+
+.navbawah{
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: 600;
+    color: #b1b1b1;
+    margin-top: 20px;
+    margin-left: -110px;
+}
+
+
+.ander {
+    /* position: fixed; */
+    height: 100%;
+    background: linear-gradient(164.56deg,  #690000 10.86%, #980000 100%);
+    color: #ffffff;  
+}
+.ander li{
+    margin:5px ;
+}
+.yoo {
+    background: transparent;
+}
+.btnnav{
+    margin-left: 25%;
+}
+.justify-between {
+    color: black;
+}
+
+/* ///////////////////////////////////// ORDER //////////////////////////////////////////////////////////// */
+
+.wadahorder{
+    width: 100%;
+    height: 60%;
+    padding-top: 50px;
+}
+
+
+.pertama{
+    width: 95%;
+    margin-left: 2.5%;
+    height: 380px;
+    border-radius: 20px;
+    background: linear-gradient(132.39deg, #575757 23.86%, #818181 73.53%);
+    /* background: linear-gradient(132.39deg, #414141 23.86%, #7e7e7e 73.53%); */
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+    
+}
+
+.order{
+    width: 50%;
+}
+.orders{
+    width: 50%;
+}
+
+.atas h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 600;
+    font-family: poppins;
+   text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2%;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.kanankiri{
+    display: flex;
+}
+
+.order input{
+    margin-left: 30px !important;
+    margin-top: 20px;
+    width: 81%;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    border:solid 1px #000000;
+    background-color: transparent;
+    padding-left: 20px; 
+  }
+
+.order p{
+    color: red;
+    margin-left: 3vw;
+    margin-top: -10px;
+    margin-bottom: -15px;
+    font-size: 15px;
+    font-family: poppins;
+  
+  }
+
+  .orders input{
+    width: 81%;
+    margin-left: 14.5% !important;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    border: solid 1px #000000;
+    background-color: transparent;
+    padding-left: 20px;
+  }
+  .bungkus-btn label{
+    background: #8b0000;
+    width: 54%;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    margin-left: 21vw;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  
+  }
+  
+  .bungkus-btn label:hover{
+    background: #520000;
+  }
+  .kedua{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    height: 450px;
+    display: flex;
+  }
+  .textdata{
+    width: 100%;
+  }
+  .textdata h1{
+    text-align: center;
+    font-family: poppins;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px #000000;
+    font-size: 40px;
+    margin-top: 10px;
+  }
+  .kedua-kiri{
+    width: 48%;
+    height: 325px;
+    border-radius: 15px;
+    background-color: #cbcbcb;
+  }
+  .kedua-kanan{
+    width: 48%;
+    height: 325px;
+    border-radius: 15px;
+    margin-left: 4vw;
+    background-color: #cbcbcb;
+  }
+  .kedua-kanan h1{
+    color: #000000;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+
+  .modal .eror{
+    font-size: 100px;
+    color: red;
+    margin-left: 205px;
+    margin-top: -25px;
+  }
+  
+  .modal .eror2{
+    font-size: 100px;
+    color: red;
+    margin-left: 205px;
+    margin-top: -25px;
+  }
+  
+  .modal .sc2{
+    background-color: transparent;
+    color:red;
+    margin-left: 160px;
+  }
+  
+  .modal .modal-backdrop2{
+    width: 50px;
+   margin-top: -50px; 
+   margin-left: 430px;
+   background: transparent;
+   color: black;
+  }
+  
+  .error2 svg{
+    font-size: 50px;
+  }
+  
+  
+  .modal .modal-backdrop4{
+    width: 50px;
+   margin-top: -50px; 
+   margin-left: 30vw;
+   color: black;
+  }
+  
+  .modal-box .ceklis{
+    color: rgb(11, 189, 11);
+    margin-left: 10vw;
+    margin-top: -20px;
+  }
+  
+  .modal-box .sukses{
+     color: #003C95;
+     margin-left: 8vw;
+  }
+  
+  @media screen and (max-width: 1400px){
+    .modal-box{
+        width: 400px;
+      }
+      .modal-backdrop2{
+        margin-left: 320px !important;
+      }
+      .modal-box .ceklis{
+        margin-left: 140px !important;
+      }
+      .modal .eror{
+        margin-left: 140px !important;
+      }
+      .modal .sc2{
+        margin-left: 100px;
+      }
+      .modal-box .sukses{
+        margin-left: 100px;
+      }
+  }
+
+@media screen and (max-width: 1115px){
+    .btnnav{
+        margin-left: 90px;
+    }
+}
+@media screen and (max-width: 1000px){
+.kedua{
+    display: inline;
+}
+.ag-theme-alpine{
+    margin-left: 2vw !important;
+}
+.kedua-kanan h1{
+    margin-left: 2vw;
+}
+.kedua-kiri{
+    margin-left: 4vw !important;
+    width: 93%;
+}
+.kedua-kanan{
+    margin-top: 40px;
+    width: 93.5%;
+}
+}
+@media screen and (max-width: 780px){
+    .navbawah{
+            width: 30%;
+            margin-left: -110px;
+            margin-top: 30px;
+    }
+}
+@media screen and (max-width: 630px){
+    .navbawah{
+        display: none;
+    }
+    .navatas{
+        display: none;
+    }   
+
+}
+@media screen and (max-width: 560px){
+    .navbawah{
+        display: none;
+    }
+    .navatas{
+        display: none;
+    }
+    .navbar{
+        height: 80px;
+    }
+    .flex-1 img{
+        margin-top: 0px;
+    }
+    .btnnav{
+        margin-left: 50px;
+    }
+    .kanankiri{
+        display: inline;
+    }
+    .order{
+        width: 100%;
+        margin-left: none;
+        text-align: center;
+    }
+    .orders{
+        width: 100%;
+        
+    }
+    .orders input{
+        margin-left: 10% !important;
+    }
+    .pertama{
+        height: 550px;
+    }
+    .kedua-kiri{
+        height: 270px;
+    }
+    .kedua-kanan{
+        height: 270px;
+    }
+    .chartdarel{
+        height: 250px !important;
+    }
+    .ag-theme-alpine{
+        height: 215px !important;
+     
+    }
+}
+@media screen and (max-width: 450px){
+    .btnnav{
+        margin-left: -20px;
+    }
+    .atas h1{
+        font-size: 35px;
+    }
+    .order{
+        width: 100%;
+        margin-left: -1%;
+    }
+    .kedua-kiri{
+        height: 250px !important;
+    }
+    .chartdarel{
+        height: 230px !important;
+    }
+    .kedua-kanan{
+        height: 250px !important;
+    }
+    .ag-theme-alpine{
+        height: 200px !important;
+    }
+    .modal-box{
+        width: 240px;
+      }
+      .modal-backdrop2{
+        margin-left: 220px !important;
+      }
+      .modal-box .ceklis{
+        margin-left: 100px !important;
+      }
+      .modal .eror{
+        margin-left: 100px !important;
+      }
+      .modal .sc2{
+        margin-left: 50px;
+      }
+      .modal-box .sukses{
+        margin-left: 60px;
+      }
+}
+
+
+

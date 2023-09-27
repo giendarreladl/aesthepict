@@ -1,0 +1,40 @@
+.wadahharga{
+    width: 100%;
+    height: 100%;
+}
+
+.wadahharga h1{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: poppins;
+   text-align: center;
+    margin-top: 20px;
+    color: #ba0000;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.wadahharga h2{
+    color: #000000;
+    font-weight: 600;
+    font-family: poppins;
+    margin-left: 1vw;
+}
+
+@media screen and (max-width: 1115px){
+    .harga {
+        margin-left: 1vw !important;
+    }
+}
+
+@media screen and (max-width: 560px){
+.harga{
+    height: 450px !important;
+}
+.wadahharga h1{
+    font-size: 30px;
+}
+.wadahharga h2{
+    text-align: center;
+    font-size: 13px;
+}
+}

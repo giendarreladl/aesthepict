@@ -1,0 +1,102 @@
+.modal-box{
+    background-color: rgb(231, 231, 231);
+}
+
+.showmodal{
+    width: 91%;
+    height: 90vh;
+    margin-left: 60px;
+    margin-top: 15px;
+    background-color: rgb(231, 231, 231);
+    box-shadow: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.modal-chart1{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.modal-chart1 h1{
+    color: black;
+    font-family: poppins;
+    font-weight: 500;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+.modal-chart1 canvas{
+    margin-top: 10px;
+    height: 250px !important;
+}
+
+.modal-chart2{
+    width: 100%;
+    height: 300px;
+    margin-left: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.modal-chart2 h1{
+    color: black;
+    font-family: poppins;
+    font-weight: 500;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+.modal-chart2 canvas{
+    margin-top: 10px;
+    height: 250px !important;
+}
+
+.main-modal1{
+    width: 49%;
+    height: 45vh;
+    /* background-color: blue; */
+}
+
+.main-modal2{
+    width: 50%; 
+    height: 45vh;  
+    /* background-color: blueviolet; */
+}
+
+.main-modal3{
+    width: 100%;
+    height: 50vh;
+    margin-top: 8vh;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.main-modal3 h1{
+    color: black;
+    font-family: poppins;
+    font-weight: 500;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+@media screen and (max-width:935px) {
+    .main-modal3{
+        margin-left: -30px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .main-modal3{
+        margin-top: -20px;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .main-modal3{
+        margin-top: -10vh;
+        margin-left: -10vw;
+    }
+}

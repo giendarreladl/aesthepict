@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "nama": "amar",
+        "pilihan_order": "Video cinematic",
+        "jadwal_order": "2022-09-09",
+        "status": "done"
+    },
+    {
+        "id": 1,
+        "nama": "damar",
+        "pilihan_order": "rolling shoot",
+        "jadwal_order": "2021-07-08",
+        "status": "done"
+    },
+    {
+        "id": 3,
+        "nama": "Dewa",
+        "pilihan_order": "Foto Preeweding",
+        "jadwal_order": "2023-09-29",
+        "status": "proses"
+    }
+]

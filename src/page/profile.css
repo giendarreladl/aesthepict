@@ -1,0 +1,96 @@
+h2{
+    margin-block-end: 0;
+    margin-block-start: 0;
+    color: black;
+}
+
+p{
+    margin-block-end: 0;
+    margin-block-start: 0;
+    color: black;
+}
+
+svg{
+    color: black;
+}
+
+.header-img {
+    background-image: url(/src/assets/gunung.jpg);
+    width: 100%;
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.profile-img {
+    background-image: url(/src/assets/dhafin.jpg);
+    width: 11vw;
+    height: 22vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100%;
+    margin: 0 10vw;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+}
+
+.profile{
+    width: 100%;
+    padding: 0 25vw;
+    background-color: grey;
+}
+
+.profile h2{
+    margin: 0.5vh 0;
+}
+
+.profile p {
+    margin: 1vh 0;
+}
+
+.profile-img{
+    position: fixed;
+    top: 26vh;
+}
+
+.header-dashboard{
+    display: flex;
+    width: 100%;
+}
+
+.profile .social {
+    display: flex;
+}
+
+.profile .social-menu {
+    margin: 0 1vw;
+    display: flex;
+    align-items: center;
+}
+
+.contact-profile{
+    margin: 2vh 1vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contact-profile .button{
+    display: flex;
+    background-color: yellow;
+    padding: 2vh 5vw;
+    border-radius: 10vw;
+}
+
+.contact-profile .star-img{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,494 @@
+.wadah{
+  width: 100%;
+  display: flex;
+  height: -moz-fit-content;
+  height: fit-content;
+  justify-content: center;
+}
+
+.modal-box-track{
+  background: transparent;
+}
+
+.close{
+  margin-top: -380px;
+  margin-left: -40px;
+  color: red;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: poppins;
+}
+
+
+.btnclose-login{
+  position: relative;
+  top: -26vw;
+  margin-left: 73vw;
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  width: 25px;
+  border-radius: 4px;
+  border: solid 1px rgb(0, 0, 0);
+  padding-left: 11.5px;
+}
+.form{
+  width: 75vw;
+  height: fit-content;
+  background: linear-gradient(132.39deg, #414141 23.86%, #7e7e7e 73.53%);
+  margin-top: 0px;
+  border-radius: 20px;
+}
+
+.bungkuslog{
+  width: 100%;
+  display: flex;
+}
+
+.kiri{
+  width: 50%;
+}
+
+.welcome{
+  width: 100%;
+}
+
+.kiri h1{
+  font-size: 25px;
+  margin-left: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  margin-top: 5px;
+}
+.kiri input{
+  margin-left: 30px !important;
+  margin: 13px;
+  width: 81%;
+  height: 50px;
+  border-radius: 5px;
+  border:solid 1px #000000;
+  background-color: transparent;
+  padding-left: 20px; 
+}
+
+.kiri2 h1{
+  font-size: 25px;
+  margin-left: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  margin-top: 5px;
+}
+.kiri2 input{
+    margin-left: 40px !important;
+    margin: 10px;
+    width: 33vw;
+    height: 50px;
+    border-radius: 5px;
+    border: solid 1px #000000;
+    background-color: transparent;
+    padding-left: 20px;
+}
+
+.kanan input{
+  margin-left: 30px !important;
+  margin: 15px;
+  width: 81%;
+  height: 50px;
+  border-radius: 5px;
+  border:solid 1px #000000;
+  background-color: transparent;
+  padding-left: 20px;
+  
+}
+
+.wadahpass{
+  width: 100%;
+  margin-top: 14%
+}
+
+.gp{
+  width: 15vw;
+  margin-left: 9vw;
+
+}
+
+.gp2{
+  width: 15vw;
+  margin-left: 30vw;
+
+}
+
+.gitar label{
+  background: #8b0000;
+  width: 54%;
+  height: 50px;
+  color: white;
+  border-radius: 15px;
+  margin-left: 6vw;
+  margin-top: 28px;
+  margin-bottom: 40px;
+
+}
+
+.gitar label:hover{
+  background: #520000;
+}
+
+.gitar2 label{
+  background: #8b0000;
+  width: 54%;
+  height: 50px;
+  color: white;
+  border-radius: 15px;
+  margin-left: 17vw;
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+.gitar2 label:hover{
+  background: #520000;
+}
+
+.kanan{
+  width: 50%;
+}
+
+.picture{
+  width: 385px;
+  margin-left: 5vw;
+  margin-top: 50px;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 2px solid #555454;
+}
+
+.kiri p{
+ margin-left: 11vw;
+ margin-top: -10px;
+}
+
+.eye{
+  position: absolute;
+  margin-top: -47px;
+  margin-left: 29%;
+}
+
+.eyes{
+  position: relative;
+  margin-top: -45px;
+  margin-left: 92%;
+}
+
+.eyes1{
+  margin-top: -17px;
+  margin-left: 43%;
+}
+
+.inline{
+  margin-left: 1.5vw !important;
+  margin-top: 10px !important;
+}
+
+ul.inline{
+  list-style:none;
+  padding: 0;
+  margin-bottom:0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 0px;
+}
+
+ul.inline li {
+  display:inline-block;
+  margin-left:0;
+  padding:10px;
+  border-bottom:2px solid #eee;
+  transition: all .5s;
+  font-family:sans-serif;
+  font-weight: 600;
+  cursor:pointer;
+  color: #aaa;
+}
+
+ul.inline li.selected{
+  border-bottom:2px solid #580000;
+  color:#1d1d1d;
+}
+
+.kiri2 P{
+  color: red;
+  margin-left: 30vw;
+  margin-top: 30px;
+  margin-bottom: -25px;
+  font-size: 12px;
+
+}
+.gitar2{
+  margin-top: 2vw;
+}
+
+.modal .eror{
+  font-size: 100px;
+  color: red;
+  margin-left: 205px;
+  margin-top: -25px;
+}
+
+.modal .eror2{
+  font-size: 100px;
+  color: red;
+  margin-left: 205px;
+  margin-top: -25px;
+}
+
+.modal .sc2{
+  background-color: transparent;
+  color:red;
+  margin-left: 160px;
+}
+
+.modal .modal-backdrop2{
+  width: 50px;
+ margin-top: -50px; 
+ margin-left: 430px;
+ background: transparent;
+ color: black;
+}
+
+.error2 svg{
+  font-size: 50px;
+}
+
+
+.modal .modal-backdrop4{
+  width: 50px;
+ margin-top: -50px; 
+ margin-left: 30vw;
+ color: black;
+}
+
+.modal-box .ceklis{
+  color: rgb(11, 189, 11);
+  margin-left: 10vw;
+  margin-top: -20px;
+}
+
+.modal-box .sc3{
+   color: #003C95;
+   margin-left: 7vw;
+}
+
+@media screen and (max-width:1400px){
+  .gitar2{
+    margin-top: 88px;
+  }
+  .picture{
+    width: 285px;
+    margin-top: 65px;
+  }
+  .kiri p{
+    margin-left: 10vw;
+    margin-top: -10px;
+   }
+   .inline{
+    margin-left: 2vw !important;
+    margin-top: 10px !important;
+  }
+  .eyes1{
+    margin-left: 90%;
+    margin-top: -85px;
+  }
+  .kiri2 input{
+    width: 67vw;
+  }
+  .kiri2 P{
+    margin-left: 5vw;
+    margin-top: 15px;
+    font-size: 15px;
+  }
+  .eyes{
+    position: relative;
+    margin-top: -45px;
+    margin-left: 90%;
+  }
+  .modal-box{
+    width: 400px;
+  }
+  .modal-backdrop2{
+    margin-left: 320px !important;
+  }
+  .modal-box .ceklis{
+    margin-left: 140px !important;
+  }
+  .modal .eror2{
+    margin-left: 140px !important;
+  }
+  .modal .sc2{
+    margin-left: 100px;
+  }
+  .modal-box .sc3{
+    margin-left: 70px;
+  }
+}
+
+@media screen and (max-width:1000px){
+  .picture{
+    width: 230px;
+    margin-top: 75px;
+    margin-left: 45px;
+  }
+  .kiri p{
+    margin-left: 9vw;
+    margin-top: -10px;
+   }
+   .inline{
+    margin-left: 3vw !important;
+    margin-top: 10px !important;
+  }
+}
+
+@media screen and (max-width:850px){
+  .picture{
+    width: 195px;
+    margin-top: 85px;
+  }
+  .kiri p{
+    margin-left: 8vw;
+    margin-top: -10px;
+   }
+   .inline{
+    margin-left: 4vw !important;
+  }
+  .close{
+    margin-top: -370px;
+  }
+
+}
+
+@media screen and (max-width:700px){
+  .form{
+    width: 80vw;
+  }
+  .kiri p{
+    margin-left: 7vw;
+    margin-top: -10px;
+   }
+  .welcome h1{
+    margin-top: 5vw;
+    margin-left: -2vw;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+  }
+  .kiri input{
+   margin-left: 7.5vw !important;
+  }
+  .kiri2 input{
+    margin-left: 5.5vw !important;
+    margin: 10px;
+   }
+  .gitar label{
+    margin-left: 18vw;
+  }
+  .gitar2 label{
+    margin-left: 18vw;
+  }
+  .kanan{
+    display: none;
+  }
+  .kiri{
+    width: 100%;
+  }
+  .gp{
+    width: 30vw;
+    margin-left: 23.5vw;
+    margin-top: 25px;
+  }
+  .eye{
+    margin-left: 65%;
+  }
+  .inline{
+    width: 58vw;
+    text-align: center;
+    font-size: 11px;
+    margin-left: 28vw !important;
+  }
+  .kiri2 P{
+    color: red;
+    margin-left: 7vw;
+    margin-top: 20px;
+    font-size: 9px;
+  }
+  .eyes1 {
+    margin-left: 83.5%;
+    margin-top: -84px;;
+}
+  .eyes{
+    margin-top: -45px;
+    margin-left: 84%;
+  }
+  .gitar2{
+    margin-top: 88px;
+  }
+  .close{
+    margin-top: -400px;
+  }
+}
+
+@media screen and (max-width:450px){
+  .kiri p{
+    font-size: 10px;
+    margin-top: -10px;
+  }
+  .welcome h1{
+    font-size: 18px;
+    margin-top: 5vw;
+  }
+  .inline{
+    width: 58vw;
+    text-align: center;
+    font-size: 8px;
+    margin-left: 27vw !important;
+  }
+  .modal-box{
+    width: 300px;
+  }
+  .modal-backdrop2{
+    margin-left: 220px !important;
+  }
+  .modal-box .ceklis{
+    margin-left: 100px !important;
+  }
+  .modal .eror2{
+    margin-left: 100px !important;
+  }
+  .modal .sc2{
+    margin-left: 50px;
+  }
+  .modal-box .sc3{
+    margin-left: 30px;
+  }
+  .close{
+    margin-top: -380px;
+  }
+}
+
+@media screen and (max-width:375px){
+  .inline{
+    margin-left: 24vw !important;
+  }
+  .eyes1{
+    margin-left: 64vw !important;
+  }
+  .eyes{
+    margin-left: 81%;
+  }
+  .close{
+    margin-top: -370px;
+    margin-left: -30px;
+  }
+}
+
+
