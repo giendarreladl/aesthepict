@@ -83,7 +83,7 @@ const Logns: Component = () => {
                     sessionStorage.setItem('token', data.token);
                     localStorage.setItem("auth", JSON.stringify(data));
                     console.log("GG -> ", localStorage.getItem("auth"))
-                    navigate('/dashboard', { replace: true });
+                    navigate('/order', { replace: true });
                 }
                 else {
                     alert('error')
@@ -91,7 +91,7 @@ const Logns: Component = () => {
             })
 
         } else {
-            console.log('adib misbahul ulum')
+            console.log('Gien Darrel Adli')
             setlogKosong(true);
         }
 

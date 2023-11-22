@@ -34,7 +34,7 @@ html::-webkit-scrollbar{
 }
 
 .btn:hover {
-    background: rgb(59, 0, 0);
+    background: rgba(59, 0, 0, 0);
     color: #ffffff;
 }
 
@@ -259,7 +259,6 @@ html::-webkit-scrollbar{
     font-weight: 500;
     font-size: 20px;
     margin-left: 15px;
-    margin-top: 10px;
   }
 
   .modal .eror{
@@ -304,24 +303,75 @@ html::-webkit-scrollbar{
   
   .modal-box .ceklis{
     color: rgb(11, 189, 11);
-    margin-left: 10vw;
+    margin-left: 14vw;
     margin-top: -20px;
   }
   
   .modal-box .sukses{
      color: #003C95;
-     margin-left: 8vw;
+    text-align: center;
+  }
+  .wadahbtnedit{
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+  }
+  .kiwe{
+    width: 70%;
+  }
+  .tengen{
+    width: 30%;
+  }
+  .btnb{
+    font-family: poppins;
+    background-color: #520000;
+    text-align: end;
+    color: #ffffff;
+    margin-left: 13%;
+    border-radius: 5px;
   }
   
+
+
+  .bungkus label:hover{
+    background: #520000;
+  }
+.bungkus label{
+    background: #8b0000;
+    width: 30%;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  
+  }
+.bungkus{
+    text-align: center;
+}
+
+.wadahform{
+    width: 95%;
+    height: fit-content;
+    border-radius: 20px;
+    background: linear-gradient(132.39deg, #575757 23.86%, #818181 73.53%);
+    /* background: linear-gradient(132.39deg, #414141 23.86%, #7e7e7e 73.53%); */
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 1%;
+    
+}
   @media screen and (max-width: 1400px){
     .modal-box{
         width: 400px;
+      }
+      .btnb{
+        margin-left: 5%;
       }
       .modal-backdrop2{
         margin-left: 320px !important;
       }
       .modal-box .ceklis{
-        margin-left: 140px !important;
+        margin-left: 150px !important;
       }
       .modal .eror{
         margin-left: 140px !important;
@@ -330,7 +380,7 @@ html::-webkit-scrollbar{
         margin-left: 100px;
       }
       .modal-box .sukses{
-        margin-left: 100px;
+        text-align: center;
       }
   }
 
@@ -357,12 +407,24 @@ html::-webkit-scrollbar{
     margin-top: 40px;
     width: 93.5%;
 }
+.wadahbtnedit{
+    padding-top: 10px;
+}
+.tengen{
+    margin-left: 30%;
+}
 }
 @media screen and (max-width: 780px){
     .navbawah{
             width: 30%;
             margin-left: -110px;
             margin-top: 30px;
+    }
+    .kiwe{
+        width: 60%;
+    }
+    .tengen{
+        width: 40%;
     }
 }
 @media screen and (max-width: 630px){
@@ -372,6 +434,9 @@ html::-webkit-scrollbar{
     .navatas{
         display: none;
     }   
+    .tengen{
+        margin-left: 10%;
+    }
 
 }
 @media screen and (max-width: 560px){
@@ -421,6 +486,9 @@ html::-webkit-scrollbar{
         height: 215px !important;
      
     }
+    .tengen{
+        margin-left: 0%;
+    }
 }
 @media screen and (max-width: 450px){
     .btnnav{
@@ -461,8 +529,11 @@ html::-webkit-scrollbar{
         margin-left: 50px;
       }
       .modal-box .sukses{
-        margin-left: 60px;
+        text-align: center;
       }
+      .tengen{
+        margin-left: -5%;
+    }
 }
 
 

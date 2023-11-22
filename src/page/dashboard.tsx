@@ -102,7 +102,7 @@ const Dash: Component = () => {
 
     <footer>
         <p>Gien.Picture</p>
-        <p><A href="/order">Book Now !</A></p>
+        <label for="my_modal_9"><h1>Book Now !</h1></label>
         <div class="sosial">
             <a href="https://mail.google.com/mail/" target="_blank"><IoMail /></a>
             <a href="https://instagram.com/gien.pict?igshid=YmMyMTA2M2Y=" target="_blank"><FaBrandsInstagram /></a>

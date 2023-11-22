@@ -24,6 +24,7 @@ import Bea from '../src/assets/picts.png'
 import PP from '../public/dhafin.jpg'
 import Logns from './page/profile';
 import Harga from './page/daftar_harga';
+import Orders from './page/order';
 
 
 const DocPabean = lazy(() => import('./page/order'))
@@ -148,6 +149,17 @@ const App: Component = () => {
               </div>
           </div>
 
+{/* ////////////////////////////////////////////EDIT TABLE//////////////////////////////// */}
+
+          {/* <div>
+          <input type="checkbox" id="my_modaledit" class="modal-toggle" />
+              <div class="modal">
+                <div class="modal-box-log">
+                 <ModalEdit/>
+                </div>
+                <label class="close" for="my_modaledit">✘</label>
+              </div>
+          </div> */}
 
 
         </div>
@@ -172,7 +184,7 @@ const App: Component = () => {
           <label for="my-drawer" class="drawer-overlay"></label>
           <ul class="ander menu p-4 w-80 h-160 bg-base-200 text-base-content">
             <li><label for="my_modal_9"><a class="menuside">Login / Register</a></label></li>
-            <li><A href="/order" >Book / Order Here !</A></li>
+            <li><label for="my_modal_9">Book / Order Here !</label></li>
             <li><A href="/daftar-harga" >Daftar Harga</A></li>
             <li><A href="/hasil-foto">Hasil Fotografi</A></li>
             <li><A href="https://drive.google.com/drive/folders/10udO5QH_jaZr0nllCd88m8PUQjbaDYZ7?usp=sharing">Hasil Videografi</A></li>

@@ -12,6 +12,7 @@ import { getBarang, getDokumen, getFilterDoc, getHarga, getJenis } from "../serv
 import * as XLSX from 'xlsx';
 import jsPDF from 'jspdf';
 import 'jspdf-autotable';
+import { A } from "@solidjs/router";
 
 
 const Harga: Component = () => {
@@ -55,12 +56,18 @@ const Harga: Component = () => {
     })
   });
 
+  const searchTabel: any = (ev: any) => {
+    // console.log('Search Tabel', ev.currentTarget.value)
+    gridRefHarga.api.setQuickFilter(ev.currentTarget.value)
+  }
+
 
     return (
         <>
         <div class="wadahharga">
           <h1>Daftar Harga</h1>
-          <h2>Note : Harga sudah termasuk editing</h2>
+          <div class="wadahcari">
+          <input onKeyUp={(params) => searchTabel(params)} type="text" placeholder="search" class="search" /></div>
          <div class="ag-theme-alpine harga" style="width:98%;height:450px;margin-left:1vw;font-size: 15px;font-family: poppins;">
               <AgGridSolid
                 columnDefs={Dharga}
@@ -72,6 +79,11 @@ const Harga: Component = () => {
               />
             </div>
             </div>
+            <div class="wadahebuton">
+            <button class="btndh"><A href="/order">Order Now!</A></button>
+            </div>
+           
+            
         </>
     );
 };

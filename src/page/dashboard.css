@@ -5,7 +5,7 @@
 }
 
 span {
-    color: #980000;
+    color: #c80000;
 }
 
 .wadahgambar{
@@ -74,7 +74,7 @@ span {
 }
 
 .teksbawah h1{
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: poppins;
     font-size: 20px;
     font-weight: 600;

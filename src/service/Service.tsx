@@ -243,7 +243,7 @@ const getHasilFoto = async () =>   {
   const [data, setData] = createSignal();
   const [error, setError] = createSignal();
 
-  const url = `${api}img.json`;
+  const url = `${api}foto`;
   await fetch(url, {headers: {"Content-type": "application/json;charset=UTF-8"}}).then((res) => res.json())
       .then((data) => {
         console.log("cek gambar",data);
@@ -278,11 +278,33 @@ const ordergp = async (body_params: any) => {
   return data();
 };
 
+const updateorder = async (body_params: any) => {
+  const [data, setData] = createSignal();
+  const [error, setError] = createSignal();
+  const url = `${api}update`;
+  await fetch(url, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(body_params),
+  })
+    .then((res) => res.json())
+    .then((data) => {
+      setData(data);
+    })
+    .catch((err) => {
+      setError(err);
+      console.log(err);
+    });
+  return data();
+};
+
 const gettabelor = async () =>   {
   const [data, setData] = createSignal();
   const [error, setError] = createSignal();
 
-  const url = `${api}grid_order.json`;
+  const url = `${api}orderan`;
   await fetch(url, {headers: {"Content-type": "application/json;charset=UTF-8"}}).then((res) => res.json())
       .then((data) => {
         console.log("cek data",data);
@@ -299,7 +321,7 @@ const getHarga = async () =>   {
   const [data, setData] = createSignal();
   const [error, setError] = createSignal();
 
-  const url = `${api}grid_harga.json`;
+  const url = `${api}daftar_harga`;
   await fetch(url, {headers: {"Content-type": "application/json;charset=UTF-8"}}).then((res) => res.json())
       .then((data) => {
         console.log("cek data",data);
@@ -316,7 +338,7 @@ const getChart = async () =>   {
   const [data, setData] = createSignal();
   const [error, setError] = createSignal();
 
-  const url = `${api}test.json`;
+  const url = `${api}amchart`;
   await fetch(url, {headers: {"Content-type": "application/json;charset=UTF-8"}}).then((res) => res.json())
       .then((data) => {
         console.log("cek chart",data);
@@ -329,6 +351,27 @@ const getChart = async () =>   {
   return data();
 }
   
+const DeleteOrder = async (id:any) =>   {
+  const [data, setData] = createSignal();
+  const [error, setError] = createSignal();
+
+  const url = `${api}deletee?id=${id}`;
+  await fetch(url, {
+    method: 'DELETE',
+    headers: {"Content-type": "application/json;charset=UTF-8"}}).then((res) => res.json())
+      .then((data) => {
+        console.log("cek delete",data);
+          setData(data);
+      }
+  ).catch((err) => {
+      setError(err);
+      // // // console.log(error());
+  });
+  return data();
+};
+
+
+
 
   
 
@@ -350,5 +393,7 @@ export {
     ordergp,
     gettabelor,
     getHarga,
-    getChart
+    getChart,
+    updateorder,
+    DeleteOrder
 }

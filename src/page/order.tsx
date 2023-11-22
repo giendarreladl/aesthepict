@@ -8,7 +8,7 @@ import "./order.css"
 import 'ag-grid-enterprise';
 import { any } from "@amcharts/amcharts5/.internal/core/util/Array";
 import { createStore } from "solid-js/store";
-import { getAmchart, getBarang, getChart, getDokumen, getFilterDoc, getJenis, gettabelor, ordergp } from "../service/Service";
+import { DeleteOrder, getAmchart, getBarang, getChart, getDokumen, getFilterDoc, getJenis, gettabelor, ordergp, updateorder } from "../service/Service";
 // import { XLSX } from 'xlsx';
 import * as XLSX from 'xlsx';
 import { onCleanup } from 'solid-js';
@@ -23,7 +23,7 @@ import { VsError } from 'solid-icons/vs'
 
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
-import { SetFilter } from "ag-grid-enterprise";
+import { GridApi, SetFilter } from "ag-grid-enterprise";
 
 const Orders: Component = () => {
 
@@ -31,7 +31,7 @@ const Orders: Component = () => {
 
   const [rowLenght, setRowlength]: any = createSignal(0)
   const [tabel]: any = createStore([
-    { field: 'nama', headerName: 'Nama' },
+    { field: 'nama', headerName: 'Nama' ,checkboxSelection: true},
     { field: 'pilihan_order', headerName: 'Pilihan Order' },
     { field: 'jadwal_order', headerName: 'Jadwal Acara' },
     { field: 'status', headerName: 'Status' },
@@ -55,11 +55,37 @@ const Orders: Component = () => {
     resizable: true,
     filter: true,
     // editable: true,
+    checkbox: true,
   };
 
   const [ulum, setUlum] = createSignal(true)
   const [email, setEmail] = createSignal()
 
+  const onSelectionChanged = () => {
+    console.log('onSelectionChanged -> ', gridRefTabel.api.getSelectedRows())
+    localStorage.setItem('order' , JSON.stringify(gridRefTabel.api.getSelectedRows()))
+    console.log("localStorage.getItem('order') ->", localStorage.getItem('order')) 
+    setNama(gridRefTabel.api.getSelectedRows()[0].nama)
+    setPilih(gridRefTabel.api.getSelectedRows()[0].pilihan_order)
+    setHp(gridRefTabel.api.getSelectedRows()[0].no_hp)
+    setJadwal(gridRefTabel.api.getSelectedRows()[0].jadwal_order)
+    setId(gridRefTabel.api.getSelectedRows()[0].id)
+
+  }
+
+  const test = () => {
+    console.log("1",nama()) 
+    let data = {
+      "id" :  id(),
+      "nama" : nama(),
+      "pilihan_order" : pilihanorder(),
+      "no_hp" : nohp(),
+      "jadwal_order" : jadwalorder(),
+    }
+    
+    console.log("data",data)
+    Editgien()
+  }
 
   const ord = (evt: any) => {
 
@@ -82,6 +108,7 @@ const Orders: Component = () => {
     // Create root element
     // https://www.amcharts.com/docs/v5/getting-started/#Root_element
     let root1 = am5.Root.new("chartdivs");
+    
 
 
     // Set themes
@@ -178,6 +205,11 @@ const Orders: Component = () => {
       // https://www.amcharts.com/docs/v5/concepts/animations/
       series1.appear(1000);
       chart1.appear(1000, 100);
+
+      gettabelor().then((data: any) => {
+        setDatatabel(data)
+        gridRefTabel.api.setRowData(data);
+      })
     })
 
     // definde function create store
@@ -197,13 +229,56 @@ const Orders: Component = () => {
 
   const [isOpen, setIsOpen] = createSignal(false);
   const [isKosong, setIsKosong] = createSignal(false);
-  const [nama, setNama] = createSignal()
-  const [pilihanorder, setPilih] = createSignal()
-  const [nohp, setHp] = createSignal()
-  const [jadwalorder, setJadwal] = createSignal()
+  const [id, setId] : any = createSignal()
+  const [nama, setNama] : any = createSignal()
+  const [pilihanorder, setPilih] : any = createSignal()
+  const [nohp, setHp] : any= createSignal()
+  const [jadwalorder, setJadwal] : any = createSignal()
 
 
   const Ordergien = async () => {
+    setIsOpen(false);
+    // setIsEror(false);
+    setIsKosong(false);
+    
+
+    console.log('nama ->', nama());
+    console.log('pilihan_order ->', pilihanorder());
+    console.log('no_hp ->', nohp())
+    console.log('jadwal_order ->', jadwalorder());
+    if ((nama() !== undefined && nama() !== '') && (pilihanorder() !== undefined && pilihanorder() !== '') && (nohp() !== undefined && nohp() !== '') && (jadwalorder() !== undefined && jadwalorder() !== '')) {
+
+
+      ordergp({ 'nama': nama(), 'pilihan_order': pilihanorder(), 'no_hp': nohp(), 'jadwal_order': jadwalorder() }).then((data: any) => {
+        setIsOpen(true);
+        gettabelor().then((data: any) => {
+          setDatatabel(data)
+          gridRefTabel.api.setRowData(data);
+        })
+      })
+
+
+    } else {
+      setIsKosong(true);
+    }
+
+  }
+
+  const deletes = () => {
+    setIsOpen(false);
+    // setIsEror(false);
+    setIsKosong(false);
+
+    DeleteOrder( id()).then((data: any) => {
+      setIsOpen(true);
+      gettabelor().then((data: any) => {
+        setDatatabel(data)
+        gridRefTabel.api.setRowData(data);
+      })
+    })
+  }
+
+  const Editgien = async () => {
     setIsOpen(false);
     // setIsEror(false);
     setIsKosong(false);
@@ -215,9 +290,15 @@ const Orders: Component = () => {
     if ((nama() !== undefined && nama() !== '') && (pilihanorder() !== undefined && pilihanorder() !== '') && (nohp() !== undefined && nohp() !== '') && (jadwalorder() !== undefined && jadwalorder() !== '')) {
 
 
-      ordergp({ 'nama': nama(), 'pilihan_order': pilihanorder(), 'no_hp': nohp(), 'jadwal_order': jadwalorder() }).then((data: any) => {
+      updateorder({ 'id' : id(), 'nama': nama(), 'pilihan_order': pilihanorder(), 'no_hp': nohp(), 'jadwal_order': jadwalorder() }).then((data: any) => {
         setIsOpen(true);
+        gettabelor().then((data: any) => {
+          setDatatabel(data)
+          gridRefTabel.api.setRowData(data);
+        })
       })
+
+      
 
 
     } else {
@@ -225,6 +306,7 @@ const Orders: Component = () => {
     }
 
   }
+
 
 
 
@@ -267,7 +349,7 @@ const Orders: Component = () => {
             <div class="modal-box" >
               <label class="modal-backdrop2" for="my_modal_or">Close</label>
               <div class='ceklis' style="font-size:50px;"><FiCheckCircle /></div>
-              <label class='sukses'>order successfully</label>
+              <div class='sukses'>successfully</div>
             </div>
 
           </div>
@@ -295,8 +377,17 @@ const Orders: Component = () => {
           <div class="kedua-kiri">
             <div id="chartdivs" class="chartdarel" style="padding-top: 3%;width: 100%;height: 290px;"></div>
           </div>
+          
           <div class="kedua-kanan">
+          <div class="wadahbtnedit">
+            <div class="kiwe">
             <h1>Daftar</h1>
+            </div>
+            <div class="tengen">
+            <label for="my_modaledit" class="btnb btn-sm" onClick={Editgien}>Edit</label>
+            <label for="my_modal_delete" class="btnb btn-sm" >delete</label>
+            </div>
+            </div>
             <div class="ag-theme-alpine" style="width:95%;height:250px;margin-left:1vw;">
               <AgGridSolid
                 columnDefs={tabel}
@@ -304,6 +395,7 @@ const Orders: Component = () => {
                 defaultColDef={defaultColDefTabel}
                 ref={gridRefTabel!}
                 paginationAutoPageSize={true}
+                onSelectionChanged={onSelectionChanged}
                 pagination={true}
               />
             </div>
@@ -311,6 +403,62 @@ const Orders: Component = () => {
         </div>
       </div>
 
+{/* ------------------- */}
+
+<div>
+          <input type="checkbox" id="my_modaledit" class="modal-toggle" />
+              <div class="modal">
+                <div class="modal-box-log">
+               
+<div class="wadahorder">
+        <div class="wadahform">
+          <div class="atas">
+            <h1>Edit Data</h1>
+          </div>
+          <div class="kanankiri">
+
+            <div class="order">
+              {/* <h1>Order Now !</h1> */}
+              <input type="text" placeholder="Name" value={nama()} onchange={(a => { setNama(a.currentTarget.value) })} />
+
+              <input type="text" placeholder="choose your order" value={pilihanorder()} onchange={(a => { setPilih(a.currentTarget.value) })} />
+              <Show
+                when={!ulum()}
+              >
+                <p>Isi sesuai pada daftar harga</p>
+              </Show>
+            </div>
+
+            <div class="orders">
+              <input type="text" placeholder="No. Phone" value={nohp()} onchange={(a => { setHp(a.currentTarget.value) })} />
+              <input type="date" placeholder="Date" value={jadwalorder()}onchange={(a => { setJadwal(a.currentTarget.value) })} />
+            </div>
+          </div>
+
+          <div class="bungkus">
+            <label for="my_modal_or" class="btn psx-11 edits" onClick={test}>Edit</label>
+          </div>
+
+          
+        </div>
+        </div>
+
+                </div>
+                <label class="close" for="my_modaledit">✘</label>
+              </div>
+          </div>
+
+          <input type="checkbox" id="my_modal_delete" class="modal-toggle" />
+              <div class="modal">
+                <div class="modal-box">
+                  <p class="apa" style="font-size: 20px; font-weight:400;">Apakah anda yakin ingin menghapus?</p>
+                  <div class="modal-action">
+                    <label for="my_modal_delete" class="btn" style="background-color:#FF0000; border:none;color:black" onClick={deletes}>YA</label>
+                    {/* <button class="btntdk btn-sm btn-circle btn-ghost absolute right-2 top-2" style="background-color:none; border:none;">✕</button> */}
+                    <label for="my_modal_delete" class="btn" style="color:black">Close!</label>
+                  </div>
+                </div>
+              </div>
 
 
     </>

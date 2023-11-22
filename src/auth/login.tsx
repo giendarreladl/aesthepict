@@ -82,7 +82,7 @@ const Login: Component = () => {
                 if (data.info == 'Login successfully') {
                     sessionStorage.setItem('token', data.token);
                     localStorage.setItem("auth", JSON.stringify(data));
-                    console.log("GG -> ", localStorage.getItem("auth"))
+                    console.log("GG ->   ", localStorage.getItem("auth"))
                     navigate('/dashboard', { replace: true });
                 }
                 else {
