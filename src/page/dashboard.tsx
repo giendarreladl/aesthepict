@@ -23,6 +23,7 @@ import { FaBrandsTiktok } from 'solid-icons/fa'
 
 import darel from '../assets/darel.png'
 import fotodash from '../assets/fotodash.png'
+import aesthe from '../assets/bgaes.png'
 import { A } from "@solidjs/router";
 
 
@@ -41,7 +42,7 @@ const Dash: Component = () => {
     <>
       <div class="background-pdkb">
         <div class="wadahgambar">
-          <img src={fotodash} alt="" />
+          <img src={aesthe} alt="" />
         </div>
         <div class="wadah-about">
         <div class="about">
@@ -53,9 +54,9 @@ const Dash: Component = () => {
               <h1>About Us</h1>
             </div>
               <div class="teksbawah">
-              <h1>Gien Pict adalah sebuah jasa fotografi dan videografi, 
+              <h1>AesthePict adalah sebuah jasa fotografi dan videografi, 
               yang dibuat pada tahun 2021 oleh <span>Gien Darrel Adli. </span>
-              Nama Gien Pict berasal dari nama awal (Gien) dan (pict) yang berarti picture. Jasa ini sudah banyak dipakai oleh orang-orang terutama pada bidang otomotif, 
+              Nama Aesthe Pict berasal dari nama (Aesthe) dan (pict) yang berarti photo aesthetics. Jasa ini sudah banyak dipakai oleh orang-orang terutama pada bidang otomotif, 
               tapi tidak hanya itu kita juga sering membuatkan video untuk acara" tertentu.</h1></div>
           </div>
         </div>
@@ -101,7 +102,7 @@ const Dash: Component = () => {
 
 
     <footer>
-        <p>Gien.Picture</p>
+        <p>Aesthetic.Picture</p>
         <label for="my_modal_9"><h1>Book Now !</h1></label>
         <div class="sosial">
             <a href="https://mail.google.com/mail/" target="_blank"><IoMail /></a>

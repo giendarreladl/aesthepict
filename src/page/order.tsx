@@ -24,6 +24,8 @@ import { VsError } from 'solid-icons/vs'
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 import { GridApi, SetFilter } from "ag-grid-enterprise";
+import { IoMail } from "solid-icons/io";
+import { FaBrandsInstagram, FaBrandsTiktok } from "solid-icons/fa";
 
 const Orders: Component = () => {
 
@@ -34,7 +36,7 @@ const Orders: Component = () => {
     { field: 'nama', headerName: 'Nama' ,checkboxSelection: true},
     { field: 'pilihan_order', headerName: 'Pilihan Order' },
     { field: 'jadwal_order', headerName: 'Jadwal Acara' },
-    { field: 'status', headerName: 'Status' },
+    { field: 'status', headerName: 'Status'},
   ]);
 
   const [datatabel, setDatatabel]: any = createStore([
@@ -384,8 +386,9 @@ const Orders: Component = () => {
             <h1>Daftar</h1>
             </div>
             <div class="tengen">
-            <label for="my_modaledit" class="btnb btn-sm" onClick={Editgien}>Edit</label>
-            <label for="my_modal_delete" class="btnb btn-sm" >delete</label>
+              {/* //////////EDITTTTTTTT/////////////////////// */}
+            {/* <label for="my_modaledit" class="btnb btn-sm" onClick={Editgien}>Edit</label>
+            <label for="my_modal_delete" class="btnb btn-sm" >delete</label> */}
             </div>
             </div>
             <div class="ag-theme-alpine" style="width:95%;height:250px;margin-left:1vw;">
@@ -401,6 +404,16 @@ const Orders: Component = () => {
             </div>
           </div>
         </div>
+        <footer>
+        <p>Aesthetic.Picture</p>
+        <label for="my_modal_9"><h1>Book Now !</h1></label>
+        <div class="sosial">
+            <a href="https://mail.google.com/mail/" target="_blank"><IoMail /></a>
+            <a href="https://instagram.com/gien.pict?igshid=YmMyMTA2M2Y=" target="_blank"><FaBrandsInstagram /></a>
+            <a href="https://www.tiktok.com/@gien.pict?_t=8XLO0QlkLMP&_r=1" target="_blank"><FaBrandsTiktok /></a>
+        </div>
+        <p class="end">email : pictgien@gmail.com</p>
+    </footer>
       </div>
 
 {/* ------------------- */}
@@ -459,7 +472,7 @@ const Orders: Component = () => {
                   </div>
                 </div>
               </div>
-
+             
 
     </>
   );

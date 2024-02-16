@@ -1,6 +1,5 @@
 .wadahharga{
     width: 100%;
-    height: 100%;
 }
 .wadahebuton{
     justify-content: center;
@@ -69,6 +68,26 @@
     text-align: center;
     margin-left: -20px;
 }
-
-
+.btndh {
+    background-color: #ba0000;
+    width: 130px;
+    margin-top: 60px;
+    margin-left: 38%;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 320px){
+    .btndh {
+        background-color: #ba0000;
+        width: 130px;
+        margin-top: 60px;
+        margin-left: 28%;
+        height: 50px;
+        border-radius: 5px;
+        color: white;
+        margin-bottom: 20px;
+    }
 }

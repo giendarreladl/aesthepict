@@ -80,7 +80,7 @@ const Harga: Component = () => {
             </div>
             </div>
             <div class="wadahebuton">
-            <button class="btndh"><A href="/order">Order Now!</A></button>
+            <button class="btndh"><label for="my_modal_9">Order Now!</label></button>
             </div>
            
             

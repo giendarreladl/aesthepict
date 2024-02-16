@@ -20,7 +20,7 @@ import Profile from './page/profile';
 import { AiOutlineMenu } from 'solid-icons/ai'
 import { FiLogIn } from 'solid-icons/fi'
 
-import Bea from '../src/assets/picts.png'
+import Bea from '../src/assets/logonav.png'
 import PP from '../public/dhafin.jpg'
 import Logns from './page/profile';
 import Harga from './page/daftar_harga';
@@ -100,13 +100,18 @@ const App: Component = () => {
       >
         <div class="navbar bg-base-100" style="box-shadow:0px 0px 3px black;">
           <div class="flex-1">
-            <img src={Bea} />
-            <h1 class="navatas">GIEN PICTURES</h1>
+            <A href="/dashboard" class="gmbarnav"><img src={Bea}/></A>
+            <h1 class="navatas">AESTHETIC.PICTURES</h1>
             <h1 class="navbawah">Cinematic & Fotografi</h1>
+            </div>
             <div class="btnnav">
-              <button class="btn btn-xs" style="margin-left:20%;" ><A href="/dashboard" >Dashboard</A></button></div>
-            <label for="my-drawer" class="btn btn-xs" style="margin-left:0%">Menu</label>
-          </div>
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/dashboard" >Dashboard</A></button>
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><label for="my_modal_9">Order</label></button>
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/daftar-harga" >Price List</A></button>   
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/hasil-foto" >Fotografi</A></button>
+              <button class="btn btn-xs txtnav"><A href="https://drive.google.com/drive/folders/10udO5QH_jaZr0nllCd88m8PUQjbaDYZ7?usp=sharing">Videografi</A></button>
+              </div>
+          
 
           <div class="flex-none gap-2">
             <div class="dropdown dropdown-end">
@@ -116,10 +121,13 @@ const App: Component = () => {
               </label>
               <ul tabindex="0" class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52">
                 <li>
-                  <label for="my_modal_9"><a class="justify-between">Login / Register</a></label>
+                  {/* <label for="my_modal_9"><a class="justify-between">Login / Register</a></label> */}
+                  <A href="/dashboard" class='drop'>Dashboard</A>
+                  <label for="my_modal_9" class='drop'>Book / Order Here !</label>
+                  <A href="/daftar-harga" class='drop'>Daftar Harga</A>
+                  <A href="/hasil-foto" class='drop'>Hasil Fotografi</A>
+                  <A href="https://drive.google.com/drive/folders/10udO5QH_jaZr0nllCd88m8PUQjbaDYZ7?usp=sharing" class='drop'>Hasil Videografi</A>
                 </li>
-                <div class='btnlog'>
-                  <label for="my_modal_5" class="btn">Logout</label></div>
               </ul>
               <input type="checkbox" id="my_modal_5" class="modal-toggle" />
               <div class="modal">
@@ -180,7 +188,7 @@ const App: Component = () => {
           </Routes>
           {/* <label for="my-drawer" class="btn btn-primary drawer-button">Open drawer</label> */}
         </div>
-        <div class="drawer-side">
+        {/* <div class="drawer-side">
           <label for="my-drawer" class="drawer-overlay"></label>
           <ul class="ander menu p-4 w-80 h-160 bg-base-200 text-base-content">
             <li><label for="my_modal_9"><a class="menuside">Login / Register</a></label></li>
@@ -191,7 +199,7 @@ const App: Component = () => {
 
           </ul>
 
-        </div>
+        </div> */}
       </div>
       </div>
 
