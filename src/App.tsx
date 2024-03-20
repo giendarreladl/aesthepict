@@ -10,21 +10,7 @@ import 'ag-grid-enterprise';
 import "./page/order.css"
 import "./page/hasil_video.css"
 import "./page/hasil_foto.css"
-import "./page/profile.css"
-
-import { useParams } from "@solidjs/router";
-import { getAuth } from './service/Service';
-import Video from './page/hasil_video';
-import Foto from './page/hasil_foto';
-import Profile from './page/profile';
-import { AiOutlineMenu } from 'solid-icons/ai'
-import { FiLogIn } from 'solid-icons/fi'
-
 import Bea from '../src/assets/logonav.png'
-import PP from '../public/dhafin.jpg'
-import Logns from './page/profile';
-import Harga from './page/daftar_harga';
-import Orders from './page/order';
 
 
 const DocPabean = lazy(() => import('./page/order'))
@@ -32,6 +18,10 @@ const logn = lazy(() => import('./auth/login'))
 const Dashboard = lazy(() => import('./page/dashboard'))
 const harga = lazy(() => import('./page/daftar_harga'))
 const Fotoo = lazy(() => import('./page/hasil_foto'))
+const News = lazy(() => import('./page/news'))
+const Tutorial = lazy(() => import('./page/tutorial'))
+const Rekomen = lazy(() => import('./page/rekomendasi'))
+const Editing = lazy(() => import('./page/editing'))
 
 
 
@@ -100,14 +90,15 @@ const App: Component = () => {
       >
         <div class="navbar bg-base-100" style="box-shadow:0px 0px 3px black;">
           <div class="flex-1">
-            <A href="/dashboard" class="gmbarnav"><img src={Bea}/></A>
+            <div class="gmbarnav"><img src={Bea}/></div>
             <h1 class="navatas">AESTHETIC.PICTURES</h1>
             <h1 class="navbawah">Cinematic & Fotografi</h1>
             </div>
             <div class="btnnav">
               <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/dashboard" >Dashboard</A></button>
-              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><label for="my_modal_9">Order</label></button>
-              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/daftar-harga" >Price List</A></button>   
+              {/* <button class="btn btn-xs txtnav" style="margin-left:2%;" ><label for="my_modal_9">Order</label></button> */}
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/news" >berita</A></button>
+              <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/daftar-harga" >Order</A></button>   
               <button class="btn btn-xs txtnav" style="margin-left:2%;" ><A href="/hasil-foto" >Fotografi</A></button>
               <button class="btn btn-xs txtnav"><A href="https://drive.google.com/drive/folders/10udO5QH_jaZr0nllCd88m8PUQjbaDYZ7?usp=sharing">Videografi</A></button>
               </div>
@@ -116,15 +107,15 @@ const App: Component = () => {
           <div class="flex-none gap-2">
             <div class="dropdown dropdown-end">
               <label tabindex="0" class="btnprofile btn-ghost btn-circle avatar">
-                <div class='menuu'><AiOutlineMenu />
+                <div class='menuu'>
+                <svg fill="none" stroke-width="2" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" height="1em" width="1em" style="overflow: visible; color: white;"><path d="M3 12 21 12"></path><path d="M3 6 21 6"></path><path d="M3 18 21 18"></path></svg>
                 </div>
               </label>
-              <ul tabindex="0" class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52">
+              <ul tabindex="0" class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52" >
                 <li>
-                  {/* <label for="my_modal_9"><a class="justify-between">Login / Register</a></label> */}
                   <A href="/dashboard" class='drop'>Dashboard</A>
-                  <label for="my_modal_9" class='drop'>Book / Order Here !</label>
-                  <A href="/daftar-harga" class='drop'>Daftar Harga</A>
+                  <A href="/news" class='drop'>Berita</A>
+                  <A href="/daftar-harga" class='drop'>Order</A>
                   <A href="/hasil-foto" class='drop'>Hasil Fotografi</A>
                   <A href="https://drive.google.com/drive/folders/10udO5QH_jaZr0nllCd88m8PUQjbaDYZ7?usp=sharing" class='drop'>Hasil Videografi</A>
                 </li>
@@ -134,29 +125,13 @@ const App: Component = () => {
                 <div class="modal-box">
                   <p class="apa" style="font-size: 20px; font-weight:400;">Apakah anda yakin ingin keluar?</p>
                   <div class="modal-action">
-                    <label for="my_modal_5" class="btn" style="background-color:#FF0000; border:none;color:black" onclick={dataY}>YA</label>
-                    {/* <button class="btntdk btn-sm btn-circle btn-ghost absolute right-2 top-2" style="background-color:none; border:none;">✕</button> */}
+                    <label for="my_modal_5" class="btn" style="background-color:#1a8ecc; border:none;color:black" onclick={dataY}>YA</label>
                     <label for="my_modal_5" class="btn" style="color:black">Close!</label>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
-
-          {/* ////////////////////////////////////////////LOGINNNNNNs//////////////////////////////// */}
-
-          <div>
-          <input type="checkbox" id="my_modal_9" class="modal-toggle" />
-              <div class="modal">
-                <div class="modal-box-log">
-                    <Logns/>
-                    {/* <button class="btntdk btn-sm btn-circle btn-ghost absolute right-2 top-2" style="background-color:none; border:none;">✕</button> */}
-                </div>
-                <label class="close" for="my_modal_9">✘</label>
-              </div>
-          </div>
-
 {/* ////////////////////////////////////////////EDIT TABLE//////////////////////////////// */}
 
           {/* <div>
@@ -182,9 +157,13 @@ const App: Component = () => {
           <Routes>
             <Route path='/' component={Dashboard} />
             <Route path='/dashboard' component={Dashboard}/>
-            <Route path='/order' component={DocPabean} />
+            {/* <Route path='/order' component={DocPabean} /> */}
             <Route path='/daftar-harga' component={harga} />
             <Route path='/hasil-foto' component={Fotoo} />
+            <Route path='/news' component={News} />
+            <Route path='/tutorial' component={Tutorial} />
+            <Route path='/rekomendasi' component={Rekomen} />
+            <Route path='/editing' component={Editing} />
           </Routes>
           {/* <label for="my-drawer" class="btn btn-primary drawer-button">Open drawer</label> */}
         </div>

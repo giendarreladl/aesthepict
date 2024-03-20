@@ -7,7 +7,7 @@ const apiUrl = `https://${host}:${port}/ui-new/api-naru`;
 // const apiDummy = `src/assets/json/`;
 const apiDummy = `/data/`;
 // const api = 'http://softegra.id:8008/pdkb/api/';
-const api = 'http://10.212.72.190:9000/';
+const api = 'http://10.212.66.71:9000/';
 // const api = 'data/';
 
 

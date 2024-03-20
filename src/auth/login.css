@@ -271,7 +271,7 @@ ul.inline li.selected{
 
 .modal-box .ceklis{
   color: rgb(11, 189, 11);
-  margin-left: 10vw;
+  margin-left: 200px !important;
   margin-top: -20px;
 }
 
@@ -317,16 +317,16 @@ ul.inline li.selected{
     width: 400px;
   }
   .modal-backdrop2{
-    margin-left: 320px !important;
+    margin-left: 230px !important;
   }
   .modal-box .ceklis{
-    margin-left: 140px !important;
+    margin-left: 110px !important;
   }
   .modal .eror2{
     margin-left: 140px !important;
   }
   .modal .sc2{
-    margin-left: 100px;
+    margin-left: 65px;
   }
   .modal-box .sc3{
     margin-left: 70px;
@@ -456,16 +456,16 @@ ul.inline li.selected{
     width: 300px;
   }
   .modal-backdrop2{
-    margin-left: 220px !important;
+    margin-left: 160px !important;
   }
   .modal-box .ceklis{
-    margin-left: 100px !important;
+    margin-left: 70px !important;
   }
   .modal .eror2{
     margin-left: 100px !important;
   }
   .modal .sc2{
-    margin-left: 50px;
+    margin-left: 30px;
   }
   .modal-box .sc3{
     margin-left: 30px;

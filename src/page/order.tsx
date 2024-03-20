@@ -20,7 +20,6 @@ import am5themes_Animated from "@amcharts/amcharts5/themes/Animated";
 import * as am5xy from "@amcharts/amcharts5/xy";
 import { FiCheckCircle, FiEye } from 'solid-icons/fi'
 import { VsError } from 'solid-icons/vs'
-
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 import { GridApi, SetFilter } from "ag-grid-enterprise";
@@ -190,7 +189,7 @@ const Orders: Component = () => {
     //   return chart1.get("colors").getIndex(series1.columns.indexOf(target));
     // });
 
-    series1.set("fill", am5.color('#760305'));
+    series1.set("fill", am5.color('#00476d'));
 
 
     // Set data
@@ -230,6 +229,7 @@ const Orders: Component = () => {
 
 
   const [isOpen, setIsOpen] = createSignal(false);
+  const [isOpenpmb, setIsOpenpmb] = createSignal(false);
   const [isKosong, setIsKosong] = createSignal(false);
   const [id, setId] : any = createSignal()
   const [nama, setNama] : any = createSignal()
@@ -355,8 +355,6 @@ const Orders: Component = () => {
             </div>
 
           </div>
-
-
         )}
 
 
@@ -387,8 +385,8 @@ const Orders: Component = () => {
             </div>
             <div class="tengen">
               {/* //////////EDITTTTTTTT/////////////////////// */}
-            {/* <label for="my_modaledit" class="btnb btn-sm" onClick={Editgien}>Edit</label>
-            <label for="my_modal_delete" class="btnb btn-sm" >delete</label> */}
+            <label for="my_modaledit" class="btnb btn-sm" onClick={Editgien}>Edit</label>
+            <label for="my_modal_delete" class="btnb btn-sm" >delete</label>
             </div>
             </div>
             <div class="ag-theme-alpine" style="width:95%;height:250px;margin-left:1vw;">

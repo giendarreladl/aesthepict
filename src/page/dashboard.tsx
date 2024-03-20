@@ -55,7 +55,7 @@ const Dash: Component = () => {
             </div>
               <div class="teksbawah">
               <h1>AesthePict adalah sebuah jasa fotografi dan videografi, 
-              yang dibuat pada tahun 2021 oleh <span>Gien Darrel Adli. </span>
+              yang dibuat pada tahun 2021 oleh <span>4G Production </span>
               Nama Aesthe Pict berasal dari nama (Aesthe) dan (pict) yang berarti photo aesthetics. Jasa ini sudah banyak dipakai oleh orang-orang terutama pada bidang otomotif, 
               tapi tidak hanya itu kita juga sering membuatkan video untuk acara" tertentu.</h1></div>
           </div>

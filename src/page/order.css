@@ -19,7 +19,7 @@ html::-webkit-scrollbar{
 }
 
 .ag-header-container {
-    background: #690000;
+    background: #00476d;
     color: #fff !important;
 }
 
@@ -50,7 +50,7 @@ html::-webkit-scrollbar{
 .btnlog label{
     border:none; 
     margin-left:-10px;
-    color:red;
+    color:#1a8ecc;
 }
 
 .btnlog .btn{
@@ -59,6 +59,12 @@ html::-webkit-scrollbar{
 
 .btnlog{
     margin-left: 10px;
+}
+
+.modal-boxpmb{
+    width: 80%;
+    height: 200px;
+    background-color: white;
 }
 
 .modal-box p{
@@ -75,9 +81,10 @@ html::-webkit-scrollbar{
 }
 .drop{
     color: #000000;
-}
+}   
 .drop:hover{
     color: #ffffff;
+   
 }
 .w-10 {
     width: 100%;
@@ -98,12 +105,12 @@ html::-webkit-scrollbar{
 
 .navbar{
     /* background-color: #a1a1a1; */
-    background: linear-gradient(164.56deg, #690000 10.86%,  #980000 100%);
+    background: linear-gradient(164.56deg, #37a4df 8%, #00649a 100%);
     box-shadow:10px 10px 3px black;
 }
 
 .navatas{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: poppins;
     font-size: 15px;
     font-weight: bold;
@@ -115,7 +122,8 @@ html::-webkit-scrollbar{
     font-family: poppins;
     font-size: 15px;
     font-weight: 600;
-    color: #b1b1b1;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #000000;
     margin-top: 20px;
     margin-left: -158px;
 }
@@ -124,7 +132,7 @@ html::-webkit-scrollbar{
 .ander {
     /* position: fixed; */
     height: 100%;
-    background: linear-gradient(164.56deg,  #690000 10.86%, #980000 100%);
+    background: linear-gradient(164.56deg,  #1a8ecc 10.86%, #1a8ecc 100%);
     color: #ffffff;  
 }
 .ander li{
@@ -138,7 +146,7 @@ html::-webkit-scrollbar{
 }
 .txtnav:hover{
     background-color: #ffffff;
-    color: #690000;
+    color: #1a8ecc;
     font-weight: bold;
 }
 .justify-between {
@@ -220,7 +228,7 @@ html::-webkit-scrollbar{
     padding-left: 20px;
   }
   .bungkus-btn label{
-    background: #8b0000;
+    background: #1a8ecc;
     width: 54%;
     height: 50px;
     color: white;
@@ -232,7 +240,7 @@ html::-webkit-scrollbar{
   }
   
   .bungkus-btn label:hover{
-    background: #520000;
+    background: #1a8ecc;
   }
   .kedua{
     width: 95%;
@@ -249,6 +257,7 @@ html::-webkit-scrollbar{
     font-family: poppins;
     font-weight: 600;
     text-shadow: 2px 2px 2px #000000;
+    color:#1a8ecc;
     font-size: 40px;
     margin-top: 10px;
   }
@@ -336,7 +345,7 @@ html::-webkit-scrollbar{
   }
   .btnb{
     font-family: poppins;
-    background-color: #520000;
+    background-color: #1a8ecc;
     text-align: end;
     color: #ffffff;
     margin-left: 13%;
@@ -346,10 +355,10 @@ html::-webkit-scrollbar{
 
 
   .bungkus label:hover{
-    background: #520000;
+    background: #1a8ecc;
   }
 .bungkus label{
-    background: #8b0000;
+    background: #1a8ecc;
     width: 30%;
     height: 50px;
     color: white;
@@ -454,17 +463,17 @@ footer p:nth-child(2){
       .btnb{
         margin-left: 5%;
       }
-      .modal-backdrop2{
-        margin-left: 320px !important;
+      .modal .modal-backdrop2{
+        margin-left: 225px !important;
       }
       .modal-box .ceklis{
-        margin-left: 150px !important;
+        margin-left: 108px !important;
       }
       .modal .eror{
-        margin-left: 140px !important;
+        margin-left: 110px !important;
       }
       .modal .sc2{
-        margin-left: 100px;
+        margin-left: 65px;
       }
       .modal-box .sukses{
         text-align: center;
@@ -620,7 +629,7 @@ footer p:nth-child(2){
         margin-left: 100px !important;
       }
       .modal .eror{
-        margin-left: 100px !important;
+        margin-left: 70px !important;
       }
       .modal .sc2{
         margin-left: 50px;
